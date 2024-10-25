@@ -289,6 +289,27 @@
         "filterable": 1
       },
       {
+        "key": "FreeOK",
+        "name": "️️🎥｜追劇很卷",
+        "type": 3,
+        "api": "csp_FreeOK",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
+      },
+      {
+        "key":"csp_CandyMuj_freeok",
+        "name":"🎥｜freeok｜糖源",
+        "type":3,
+        "api":"csp_CandyMuj_freeok",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/candymuj.jar",
+        "searchable":1,
+        "quickSearch":0,
+        "filterable":1,
+        "ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/freeok.json"
+      },
+      {
         "key": "zy_闪电资源",
         "name": "优质｜闪电资源",
         "type": 1,
@@ -1037,25 +1058,6 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/cally66.js"
       },
       {
-        "key": "追剧很卷",
-        "name": "🎥｜FREEOK｜忐源",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-            "影片年代": "<div class=\"module-info-tag\">&&</div>",
-            "影片地区": "圥忈制作",
-            "影片状态": "备注：&&</div>",
-            "影片类型": "module-info-tag\">&&立即播放",
-            "线路数组": "data-dropdown-value=&&</div>",
-            "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-            "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-            "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5#今日更新$6#熱榜$7"
-        }
-      },
-      {
         "key": "hipy_js_freeok",
         "name": "🎥｜freeok｜道源",
         "type": 3,
@@ -1065,24 +1067,6 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/freeok.js"
-      },
-      {
-        "key": "FreeOK",
-        "name": "️️🎥｜Freeok｜胖源",
-        "type": 3,
-        "api": "csp_FreeOK",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
-      },
-      {
-        "key": "freeok",
-        "name": "🎥｜Freeok｜米源",
-        "type": 3,
-        "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
-        "api": "csp_FreeOK",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xiaomi.jar;md5;d797a2aea119c4c5e217172e274d72f6"
       },
       {
         "key": "hipy_js_GO影视",
@@ -5214,8 +5198,27 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
       },
       {
+        "key": "追剧很卷",
+        "name": "🎥｜FREEOK｜忐源(參數不符)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "影片年代": "<div class=\"module-info-tag\">&&</div>",
+            "影片地区": "圥忈制作",
+            "影片状态": "备注：&&</div>",
+            "影片类型": "module-info-tag\">&&立即播放",
+            "线路数组": "data-dropdown-value=&&</div>",
+            "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+            "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+            "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5#今日更新$6#熱榜$7"
+        }
+      },
+      {
         "key":"csp_vs",
-        "name":"🎥｜VS秒播｜(參數改了)",
+        "name":"🎥｜VS秒播｜忐源(參數不符)",
         "type":3,
         "api":"csp_XBPQ",
         "searchable":1,
