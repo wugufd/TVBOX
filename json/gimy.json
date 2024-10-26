@@ -51,7 +51,7 @@
     "dtUrlNameR": "",
     "playUrl": "https://gimy.ai/eps/{playUrl}.html",
     "playUa": "",
-    "searchUrl": "https://gimy.ai/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://gimy.ai/search/-------------.html?wd{wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
