@@ -59,7 +59,7 @@
         "name": "优质｜金牌影院",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
           "主页url": "https://www.cfkj86.com/",
           "简介": "</label>&&</div>",
@@ -3576,7 +3576,7 @@
         "name": "🎥｜界界影视",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
           "主页url": "https://www.hkybqufgh.com/",
           "简介": "</label>&&</div>",
@@ -5400,7 +5400,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "ext": {
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "主页url": "https://gimy.ai/",
         "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}------{catePg}---{year}.html",
         "分类": "電視劇#動漫#電影#綜藝",
