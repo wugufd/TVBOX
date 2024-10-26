@@ -3035,6 +3035,18 @@
         }
       },
       {
+        "key": "hipy_js_4k剧院",
+        "name": "🎥｜4k剧院",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4k剧院.js"
+      },
+      {
         "key": "金漫TV",
         "name": "🎥｜金漫",
         "type": 3,
@@ -5447,18 +5459,6 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/eFuns.js"
-      },
-      {
-        "key": "hipy_js_4k剧院",
-        "name": "🎥｜4k剧院｜(失效)",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/4k剧院.js"
       },
       {
         "key": "drpy_js_免费看",
