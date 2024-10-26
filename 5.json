@@ -19,7 +19,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}-{class}-{catePg}-{year}.html",
+          "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}-{class}-{catePg}-{year}.html"
         }
       }
   ],
