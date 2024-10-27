@@ -253,7 +253,7 @@
       },
       {
         "key": "凯奇影视",
-        "name": "优质｜卡曲",
+        "name": "优质｜凯奇",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
@@ -266,18 +266,6 @@
           "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
           "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-        }
-      },
-      {
-        "key": "凯奇追剧",
-        "name": "优质｜凯奇",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
-        "ext": {
-          "简介": "+hl-content-text\">&&</span>",
-          "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
         }
       },
       {
