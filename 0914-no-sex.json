@@ -105,6 +105,17 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       {
+        "key": "hipy_js_文才2[资]",
+        "name": "优质｜鐵牌影院",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
+      },
+      {
         "key": "php_heimuer",
         "name": "优质｜黑木耳｜无广",
         "type": 4,
@@ -369,56 +380,8 @@
         "changeable": 1
       },
       {
-        "key": "drpy_js_360影视",
-        "name": "🎖︎｜360",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
-      },
-      {
-        "key": "hipy_js_奇珍异兽[官]",
-        "name": "🎖︎｜i奇异",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
-      },
-      {
-        "key": "drpy_js_百忙无果",
-        "name": "🎖︎｜M果",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
-      },
-      {
-        "key": "drpy_js_腾云驾雾",
-        "name": "🎖︎｜T讯",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
-      },
-      {
-        "key": "drpy_js_菜狗",
-        "name": "🎖︎｜S狗",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
-      },
-      {
-        "key": "drpy_js_优酷",
-        "name": "🎖︎｜U酷",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
-      },
-      {
         "key": "hipy_js_厂长资源",
-        "name": "🎥｜厂长资源",
+        "name": "🍎｜厂长资源",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy.min.js",
         "searchable": 1,
@@ -429,7 +392,7 @@
       },
       {
         "key": "csp_vs",
-        "name": "🎥｜VS秒播",
+        "name": "🍎｜VS秒播",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
@@ -440,7 +403,7 @@
       },
       {
         "key": "csp_XYQHiker_奇优影院",
-        "name": "🎥｜奇优[V2]",
+        "name": "🍎｜奇优影院",
         "type": 3,
         "api": "csp_XYQHiker",
         "searchable": 1,
@@ -451,7 +414,7 @@
       },
       {
         "key": "drpy_js_小宝影院[飞]",
-        "name": "🎥｜小宝[V1]｜T3",
+        "name": "🍎｜小宝｜T3",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/小宝影院[飞].js",
@@ -459,7 +422,7 @@
       },
       {
         "key": "小宝影视",
-        "name": "🎥｜小宝[V2]",
+        "name": "🍎｜小宝｜(備用)",
         "type": 1,
         "api": "http://www.xiaobao168.com/api.php/provide/vod/",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
@@ -468,14 +431,14 @@
       },
       {
         "key": "drpy_js_两个BT",
-        "name": "🎥｜两个BT｜T3",
+        "name": "🍎｜两个BT｜T3",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/两个BT.js"
       },
       {
         "key": "hipy_js_4K-AV",
-        "name": "🎥｜4K-TV｜T3",
+        "name": "🍎｜4K-TV｜T3",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -486,7 +449,7 @@
       },
       {
         "key": "hipy_js_低端",
-        "name": "🎥｜低端｜HIPY",
+        "name": "🍎｜低端｜HIPY",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -497,28 +460,86 @@
       },
       {
         "key": "低端影视",
-        "name": "🎥｜低端｜T3",
+        "name": "🍎｜低端｜(備用)",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "changeable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/ddys.js"
       },
-
       {
-        "key": "hipy_js_毒蛇电影[优]",
-        "name": "🎥｜毒蛇电影｜HIPY",
+        "key": "追剧很卷",
+        "name": "🍎｜追剧資源",
         "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/毒蛇电影[优].js"
+        "ext": {
+          "影片年代": "<div class=\"module-info-tag\">&&</div>",
+          "影片地区": "圥忈制作",
+          "影片状态": "备注：&&</div>",
+          "影片类型": "module-info-tag\">&&立即播放",
+          "线路数组": "data-dropdown-value=&&</div>",
+          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+          "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
+        }
+      },
+      {
+        "key": "剧迷TV",
+        "name": "🍎｜剧迷資源",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "影片地区": "圥忈制作",
+          "影片年代": "<div class=\"module-info-tag\">&&</div>",
+          "影片状态": "备注：&&</div>",
+          "影片类型": "module-info-tag\">&&立即播放",
+          "线路数组": "data-dropdown-value=&&</div>",
+          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+          "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
+        }
+      },
+      {
+        "key": "vs影视",
+        "name": "🍎｜vs資源",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "ext": {
+          "分类url" : "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html"    ,
+          "线路数组"  : "#playlist&&</li>"                                        ,
+          "播放数组"  : "myui-content__listsort-list&&</ul>"                      ,
+          "播放列表"  : "<a&&</a>"                                                ,
+          "播放标题"  : ">&&<[不包含:APP秒播]"                                         ,
+          "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
+          "简介"    : "小林子祝您观影愉快"                                               ,
+          "分类数组"  : "tab_item\">&&</li>"                                      ,
+          "分类标题"  : ">&&</a>"                                                 ,
+          "分类ID"  : "/ybsisw/&&-----------.html"
+        }
+      },
+      {
+        "key": "XYQHiker_qiyou",
+        "name": "️🍎｜奇优资源",
+        "type": 3,
+        "api": "csp_XYQHiker",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/qiyou.json",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
       },
       {
         "key": "hipy_js_荐片[优]",
-        "name": "🎥｜荐片｜HIPY",
+        "name": "🍎｜荐片資源",
         "type": 3,
         "api": "./drpy_libs/drpy2.min.js",
         "searchable": 1,
@@ -526,6 +547,34 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "./drpy_js/荐片[优].js"
+      },
+      {
+        "key": "界界影视",
+        "name": "🍎｜界界資源",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "ext": {
+          "主页url": "https://www.hkybqufgh.com/",
+          "简介": "</label>&&</div>",
+          "影片类型": "tags\">&&director\">",
+          "影片状态": "bottom\">&&</div>",
+          "二次截取": "videoList\":\\[&&\\]",
+          "数组": "{&&}[不包含:伦理剧]",
+          "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+          "标题": "vodName\":\"&&\"",
+          "副标题": "vodRemarks\":\"&&\"",
+          "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
+          "导演": "导演:</div>&&主演",
+          "主演": "主演:</div>&&别名",
+          "线路标题": "寶寳",
+          "播放数组": "listitem\">&&info\">",
+          "播放列表": "<a&&</a>",
+          "倒序": "否",
+          "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
+          "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+          "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+        }
       },
       {
         "key": "hipy_js_APPV2[模板]1",
@@ -608,17 +657,6 @@
         "filterable": 1,
         "ext": "https://www.1080dyw.xyz/api.php/v1.vod",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/144.jar;md5;409069d9ab72176bd95aa8b06e36512e"
-      },
-      {
-        "key": "hipy_js_文才2[资]",
-        "name": "优质｜文采资源",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才2[资].js"
       },
       {
         "key": "csp_AppYsV2_五一影视",
@@ -2299,20 +2337,6 @@
         }
       },
       {
-        "key": "NyaFun动漫",
-        "name": "动漫｜妮呀",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "分类url": "https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-          "分类": "TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
-        }
-      },
-      {
         "key": "qimaoys",
         "name": "🎥｜七猫",
         "type": 3,
@@ -2351,25 +2375,6 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/VIPyingshi.json"
       },
       {
-        "key": "vs影视",
-        "name": "🎥｜vs资源",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
-        "ext": {
-          "分类url" : "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html"    ,
-          "线路数组"  : "#playlist&&</li>"                                        ,
-          "播放数组"  : "myui-content__listsort-list&&</ul>"                      ,
-          "播放列表"  : "<a&&</a>"                                                ,
-          "播放标题"  : ">&&<[不包含:APP秒播]"                                         ,
-          "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
-          "简介"    : "小林子祝您观影愉快"                                               ,
-          "分类数组"  : "tab_item\">&&</li>"                                      ,
-          "分类标题"  : ">&&</a>"                                                 ,
-          "分类ID"  : "/ybsisw/&&-----------.html"
-        }
-      },
-      {
         "key": "XBPQ_JQQZX",
         "name": "🎥｜剧圈",
         "type": 3,
@@ -2400,17 +2405,6 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/buxiutv.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
-      },
-      {
-        "key": "XYQHiker_qiyou",
-        "name": "️🎥｜奇优资源",
-        "type": 3,
-        "api": "csp_XYQHiker",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/qiyou.json",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
       },
       {
@@ -3332,26 +3326,6 @@
         "ext": "https://zjtu.one/api.php/app/"
       },
       {
-        "key": "追剧很卷",
-        "name": "🎥｜追剧",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "影片年代": "<div class=\"module-info-tag\">&&</div>",
-          "影片地区": "圥忈制作",
-          "影片状态": "备注：&&</div>",
-          "影片类型": "module-info-tag\">&&立即播放",
-          "线路数组": "data-dropdown-value=&&</div>",
-          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
-        }
-      },
-      {
         "key": "高清在线",
         "name": "🎥｜高清在线",
         "type": 3,
@@ -3572,32 +3546,15 @@
         "ext": "http://www.kuloo.xyz/ruifenglb_api.php/v1.vod"
       },
       {
-        "key": "界界影视",
-        "name": "🎥｜界界影视",
+        "key": "hipy_js_毒蛇电影[优]",
+        "name": "🎥｜毒蛇电影｜HIPY",
         "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": {
-          "主页url": "https://www.hkybqufgh.com/",
-          "简介": "</label>&&</div>",
-          "影片类型": "tags\">&&director\">",
-          "影片状态": "bottom\">&&</div>",
-          "二次截取": "videoList\":\\[&&\\]",
-          "数组": "{&&}[不包含:伦理剧]",
-          "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-          "标题": "vodName\":\"&&\"",
-          "副标题": "vodRemarks\":\"&&\"",
-          "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-          "导演": "导演:</div>&&主演",
-          "主演": "主演:</div>&&别名",
-          "线路标题": "寶寳",
-          "播放数组": "listitem\">&&info\">",
-          "播放列表": "<a&&</a>",
-          "倒序": "否",
-          "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-          "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-        }
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/毒蛇电影[优].js"
       },
       {
         "key": "酷云七七",
@@ -3644,26 +3601,6 @@
         "api": "csp_AppYsV2",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "ext": "https://www.zjtu.one/api.php/app/"
-      },
-      {
-        "key": "剧迷TV",
-        "name": "🎥｜剧迷",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "影片地区": "圥忈制作",
-          "影片年代": "<div class=\"module-info-tag\">&&</div>",
-          "影片状态": "备注：&&</div>",
-          "影片类型": "module-info-tag\">&&立即播放",
-          "线路数组": "data-dropdown-value=&&</div>",
-          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
-        }
       },
       {
         "key": "影视大全",
@@ -4370,6 +4307,20 @@
         "changeable": 1
       },
       {
+        "key": "NyaFun动漫",
+        "name": "动漫｜妮呀",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "分类url": "https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类": "TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
+        }
+      },
+      {
         "key": "drpy_js_58动漫",
         "name": "动漫｜58动漫",
         "type": 3,
@@ -4783,6 +4734,54 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/六月听书[听].js"
+      },
+      {
+        "key": "drpy_js_360影视",
+        "name": "🎖︎｜360",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
+      },
+      {
+        "key": "hipy_js_奇珍异兽[官]",
+        "name": "🎖︎｜i奇异",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/奇珍异兽[官].js"
+      },
+      {
+        "key": "drpy_js_百忙无果",
+        "name": "🎖︎｜M果",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
+      },
+      {
+        "key": "drpy_js_腾云驾雾",
+        "name": "🎖︎｜T讯",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
+      },
+      {
+        "key": "drpy_js_菜狗",
+        "name": "🎖︎｜S狗",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
+      },
+      {
+        "key": "drpy_js_优酷",
+        "name": "🎖︎｜U酷",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
       },
       {
         "key": "1080资源库",
