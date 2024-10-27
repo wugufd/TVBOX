@@ -645,7 +645,7 @@
         "playerType": "2",
         "api": "csp_AppRZ",
         "ext": "http://rzys.xyz/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ241025.txt;md5;ab94379331e6c8b9611a8ef63e8c26f6"
       },
       {
         "key": "csp_AppYsV2_1080影视",
@@ -686,7 +686,7 @@
         "type": 3,
         "api": "csp_Jiaozi",
         "playerType": 2,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ241025.txt;md5;ab94379331e6c8b9611a8ef63e8c26f6"
       },
       {
         "key": "csp_mgtva",
@@ -2209,7 +2209,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ241025.txt;md5;ab94379331e6c8b9611a8ef63e8c26f6"
       },
       {
         "key": "freeok",
@@ -4662,6 +4662,7 @@
         "name": "🎖︎｜360",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
       },
       {
@@ -4669,6 +4670,7 @@
         "name": "🎖︎｜i奇异",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4680,6 +4682,7 @@
         "name": "🎖︎｜M果",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
       },
       {
@@ -4687,6 +4690,7 @@
         "name": "🎖︎｜T讯",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
       },
       {
@@ -4694,6 +4698,7 @@
         "name": "🎖︎｜S狗",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
       },
       {
@@ -4701,6 +4706,7 @@
         "name": "🎖︎｜U酷",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "searchable": 1,
         "quickSearch": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
