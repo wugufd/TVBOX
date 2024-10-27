@@ -5413,7 +5413,7 @@
         "quickSearch": 1,
         "ext": {
         "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
         "主页url": "https://gimy.ai/",
         "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}------{catePg}---{year}.html",
         "分类": "電視劇#動漫#電影#綜藝",
