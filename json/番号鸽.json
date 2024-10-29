@@ -18,7 +18,7 @@
 
 "规则名": "番号鸽-XYQHiker",
 "规则作者": "飞鱼",
-"请求头参数": "PC_UA",
+"请求头参数": "Mozilla/5.0 (Linux; Android 10; moto g(7) play) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36",
 "网页编码格式": "UTF-8",
 "图片是否需要代理": "0",
 "是否开启获取首页数据": "1",
