@@ -1,7 +1,7 @@
 {
     "spider": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar;md5;799971d617e4145ba9c937b001087e3c",
-    "logo": "https://gh-proxy.com/p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
-    "wallpaper": "https://gh-proxy.com/picsum.photos/1080/",
+    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
+    "wallpaper": "https://picsum.photos/1080/",
     "sites": [
       {
         "key": "豆瓣",
@@ -60,7 +60,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "主页url": "https://gh-proxy.com/www.cfkj86.com/",
+          "主页url": "https://www.cfkj86.com/",
           "简介": "</label>&&</div>",
           "影片类型": "tags\">&&director\">",
           "影片状态": "bottom\">&&</div>",
@@ -69,16 +69,16 @@
           "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
           "标题": "vodName\":\"&&\"",
           "副标题": "vodRemarks\":\"&&\"",
-          "链接": "https://gh-proxy.com/www.cfkj86.com/detail/+vodId\":&&,",
+          "链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
           "导演": "导演:</div>&&主演",
           "主演": "主演:</div>&&别名",
           "线路标题": "寶寳",
           "播放数组": "listitem\">&&info\">",
           "播放列表": "<a&&</a>",
           "倒序": "否",
-          "搜索url": "https://gh-proxy.com/www.cfkj86.com/vod/search/{wd}",
+          "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "分类url": "https://gh-proxy.com/www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+          "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
         }
       },
       {
@@ -118,7 +118,7 @@
         "key": "php_heimuer",
         "name": "优质｜黑木耳｜无广",
         "type": 4,
-        "api": "https://gh-proxy.com/json.doube.eu.org/app/index.php?site=webheimuer",
+        "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
@@ -140,7 +140,7 @@
         "key": "php_bttwoo",
         "name": "优质｜TwoBT｜T4",
         "type": 4,
-        "api": "https://gh-proxy.com/json.doube.eu.org/app/index.php?site=bttwoo",
+        "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 0,
@@ -150,7 +150,7 @@
         "key": "py_OleVod",
         "name": "优质｜欧乐｜T4沐辰",
         "type": 4,
-        "api": "https://gh-proxy.com/py.doube.eu.org/api?site=OleVod",
+        "api": "https://py.doube.eu.org/api?site=OleVod",
         "searchable": 1,
         "quickSearch": 0,
         "filterable": 0,
@@ -165,7 +165,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "https://gh-proxy.com/auete.pro/",
+        "ext": "https://auete.pro/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       {
@@ -182,7 +182,7 @@
         "key": "T4-heimuer",
         "name": "优质｜黑木耳(T4)",
         "type": 4,
-        "api": "https://gh-proxy.com/tang.hz.cz/power/hme?token=647c28ca",
+        "api": "https://tang.hz.cz/power/hme?token=647c28ca",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -192,7 +192,7 @@
         "key": "T4-欧乐",
         "name": "优质｜欧乐｜T4唐三",
         "type": 4,
-        "api": "https://gh-proxy.com/tang.hz.cz/power/olelive?token=647c28ca",
+        "api": "https://tang.hz.cz/power/olelive?token=647c28ca",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -202,7 +202,7 @@
         "key": "T4-安博",
         "name": "优质｜安博｜T4唐三",
         "type": 4,
-        "api": "https://gh-proxy.com/tang.hz.cz/power/ub18?token=647c28ca",
+        "api": "https://tang.hz.cz/power/ub18?token=647c28ca",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -248,7 +248,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+          "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
           "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
         }
       },
@@ -256,7 +256,7 @@
         "key": "墨白影视",
         "name": "优质｜墨白",
         "type": 1,
-        "api": "https://gh-proxy.com/nm.xxxc137.top/api.php/provide/vod/",
+        "api": "https://nm.xxxc137.top/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1
@@ -274,7 +274,7 @@
           "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
           "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
           "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-          "分类url": "https://gh-proxy.com/cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
         }
       },
@@ -290,7 +290,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "ext": {
-          "Cloud-drive": "https://gh-proxy.com/api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt",
+          "Cloud-drive": "https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt",
           "from"       : "4k|auto"
         }
       },
@@ -298,7 +298,7 @@
         "key": "zy_闪电资源",
         "name": "优质｜闪电资源",
         "type": 1,
-        "api": "https://gh-proxy.com/xsd.sdzyapi.com/api.php/provide/vod/",
+        "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.jar;md5;8851819289f80deae32319080028db3b",
         "searchable": 1,
         "quickSearch": 1,
@@ -314,7 +314,7 @@
         "key": "Net_emby",
         "name": "💚 Net┃Emby",
         "type": 3,
-        "api": "https://gh-proxy.com/ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+        "api": "https://ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -331,7 +331,7 @@
         "key": "San_emby",
         "name": "💚 San┃Emby",
         "type": 3,
-        "api": "https://gh-proxy.com/ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+        "api": "https://ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -348,7 +348,7 @@
         "key": "ISO_emby",
         "name": "💚 ISO┃Emby",
         "type": 3,
-        "api": "https://gh-proxy.com/ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+        "api": "https://ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -365,7 +365,7 @@
         "key": "HKA_emby",
         "name": "💚 HKA┃Emby",
         "type": 3,
-        "api": "https://gh-proxy.com/ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
+        "api": "https://ghp.ci/https://gh-proxy.com/raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -482,7 +482,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gh-proxy.com/www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
         }
       },
@@ -502,7 +502,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gh-proxy.com/www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.jagcys.com/vodshow/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi#体育赛事$tiyusaishi"
         }
       },
@@ -513,12 +513,12 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
-          "分类url" : "https://gh-proxy.com/www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html"    ,
+          "分类url" : "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html"    ,
           "线路数组"  : "#playlist&&</li>"                                        ,
           "播放数组"  : "myui-content__listsort-list&&</ul>"                      ,
           "播放列表"  : "<a&&</a>"                                                ,
           "播放标题"  : ">&&<[不包含:APP秒播]"                                         ,
-          "跳转播放链接": "src=\"https://gh-proxy.com/jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
+          "跳转播放链接": "src=\"https://jiexi.ddmz6.com/api/publicApi.php?url=&&\"",
           "简介"    : "小林子祝您观影愉快"                                               ,
           "分类数组"  : "tab_item\">&&</li>"                                      ,
           "分类标题"  : ">&&</a>"                                                 ,
@@ -554,7 +554,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "主页url": "https://gh-proxy.com/www.hkybqufgh.com/",
+          "主页url": "https://www.hkybqufgh.com/",
           "简介": "</label>&&</div>",
           "影片类型": "tags\">&&director\">",
           "影片状态": "bottom\">&&</div>",
@@ -563,16 +563,16 @@
           "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
           "标题": "vodName\":\"&&\"",
           "副标题": "vodRemarks\":\"&&\"",
-          "链接": "https://gh-proxy.com/www.hkybqufgh.com/detail/+vodId\":&&,",
+          "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
           "导演": "导演:</div>&&主演",
           "主演": "主演:</div>&&别名",
           "线路标题": "寶寳",
           "播放数组": "listitem\">&&info\">",
           "播放列表": "<a&&</a>",
           "倒序": "否",
-          "搜索url": "https://gh-proxy.com/www.hkybqufgh.com/vod/search/{wd}",
+          "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "分类url": "https://gh-proxy.com/www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+          "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
         }
       },
       {
@@ -603,7 +603,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 1,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=https://gh-proxy.com/dmz8k4.wiki"
+        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/APPV2[模板].js?type=url&params=https://dmz8k4.wiki"
       },
       {
         "key": "420kvm",
@@ -654,7 +654,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.1080dyw.xyz/api.php/v1.vod",
+        "ext": "https://www.1080dyw.xyz/api.php/v1.vod",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/144.jar;md5;409069d9ab72176bd95aa8b06e36512e"
       },
       {
@@ -665,7 +665,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/ys.51bro.cn/mogai_api.php/v1.vod",
+        "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/144.jar;md5;409069d9ab72176bd95aa8b06e36512e"
       },
       {
@@ -694,7 +694,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电影&电视剧&综艺&动漫",
           "分类值": "dianying&lianxuju&zongyi&dongman"
         }
@@ -782,8 +782,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/jihulab.com/zjx3514824/kkk/-/raw/main/lib/6V.json",
-        "jar": "https://gh-proxy.com/jihulab.com/zjx3514824/kkk/-/raw/main/lib/4K%E4%B8%93%E4%BA%AB.jar?inline=false"
+        "ext": "https://jihulab.com/zjx3514824/kkk/-/raw/main/lib/6V.json",
+        "jar": "https://jihulab.com/zjx3514824/kkk/-/raw/main/lib/4K%E4%B8%93%E4%BA%AB.jar?inline=false"
       },
       {
         "key": "csp_XBPQ_奇侠",
@@ -801,18 +801,18 @@
         "name": "🎥｜蛙蛙",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://gh-proxy.com/mirror.ghproxy.com/https://gh-proxy.com/raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "jar": "https://mirror.ghproxy.com/https://gh-proxy.com/raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "主页url": "https://gh-proxy.com/www.wvod.tv/",
+          "主页url": "https://www.wvod.tv/",
           "数组": "hl-col-lg-2\"&&</a>",
           "图片": "data-original=\"&&\"",
           "标题": "title=\"&&\"",
           "链接": "href=\"&&\"",
           "简介": "简介：&&</li>",
-          "分类url": "https://gh-proxy.com/www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
         }
       },
@@ -1099,7 +1099,7 @@
             "影片类型": "module-info-tag\">&&立即播放",
             "线路数组": "data-dropdown-value=&&</div>",
             "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-            "分类url": "https://gh-proxy.com/www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+            "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
             "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
         }
     },
@@ -1107,7 +1107,7 @@
         "key": "HG影视",
         "name": "🎥｜皇冠",
         "type": 1,
-        "api": "https://gh-proxy.com/hong.hgyx.vip/api.php/provide/vod/",
+        "api": "https://hong.hgyx.vip/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1
@@ -1956,7 +1956,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/1_spider.jar;md5;4effb785314110a70f725b6ba633e6bd",
-        "ext": "https://gh-proxy.com/www.6080yy4.com"
+        "ext": "https://www.6080yy4.com"
       },
       {
         "key": "hipy_js_新视觉",
@@ -2236,7 +2236,7 @@
           "线路数组": "data-dropdown-value=&&</div>[不包含:喵讯(APP专享)#喵酷#喵果#喵奇异(APP专享)]",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
           "播放数组": "<div class=\"module-play-list\"&&</div>",
-          "分类url": "https://gh-proxy.com/gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#电视剧$dianshiju#韩剧$HJ#动漫$dongman#综艺$zongyi#短剧$dydj"
         }
       },
@@ -2248,7 +2248,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
           "线路数组": "sb-ico-playerico-Azhan\">&&</li>",
-          "分类url": "https://gh-proxy.com/www.cpldq.com/cptype/{cateId}-{catePg}.html",
+          "分类url": "https://www.cpldq.com/cptype/{cateId}-{catePg}.html",
           "分类": "短剧$30#电视剧$2#国产剧$13#香港剧$14#台湾剧$32#韩剧$16#日剧$33#欧美剧$15#电影$1#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#动漫$4#综艺$3"
         }
       },
@@ -2262,7 +2262,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
         }
       },
@@ -2273,7 +2273,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+          "分类url": "https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
           "分类"   : "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman"
         }
       },
@@ -2283,11 +2283,11 @@
         "type": 3,
         "searchable": 1,
         "quickSearch": 1,
-        "api": "https://gh-proxy.com/xn--tkh-mf3g9f.v.nxog.top/m/drpy_js/appys.js",
-        "jar": "https://gh-proxy.com/xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+        "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/drpy_js/appys.js",
+        "jar": "https://xn--tkh-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
         "ext": {
           "host": "http://122.228.85.203:1000/api.php/app/",
-          "*": ["https://gh-proxy.com/xcoo.vip/xiaojun/xiaojunjiexi.php?url="]
+          "*": ["https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="]
         }
       },
       {
@@ -2309,7 +2309,7 @@
           "简介": "请勿相信影片中的广告，以免上当受骗。+<p style=\"position: relative; display: inline-block;\"&&</div>",
           "线路数组": "<a data-ui=\"&&</div>",
           "线路标题": ">&&</span>",
-          "分类url": "https://gh-proxy.com/kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
         }
       },
@@ -2320,8 +2320,8 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ3.jar;md5;84a917ee083f9159823f80c51c81f71e",
         "ext": {
-          "分类url": "https://gh-proxy.com/nuu.su/x/id/{cateId}/page/{catePg}.html"     ,
-          "分类"   : "https://gh-proxy.com/json.heimuer.xyz/api.php/provide/vod?ac=list"
+          "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html"     ,
+          "分类"   : "https://json.heimuer.xyz/api.php/provide/vod?ac=list"
         }
       },
       {
@@ -2370,7 +2370,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
           "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
-          "分类url": "https://gh-proxy.com/www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
+          "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"
         }
       },
       {
@@ -2438,7 +2438,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "https://gh-proxy.com/www.zxzjhd.com/"
+        "ext": "https://www.zxzjhd.com/"
       },
       {
         "key": "zxzj",
@@ -2449,7 +2449,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "https://gh-proxy.com/www.zxzja.com/",
+        "ext": "https://www.zxzja.com/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       {
@@ -2469,7 +2469,7 @@
           "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</span>",
-          "分类url": "https://gh-proxy.com/yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
         }
       },
@@ -2498,7 +2498,7 @@
         "key": "二次萌影视",
         "name": "🎥｜次萌",
         "type": 1,
-        "api": "https://gh-proxy.com/www.ecmys.com/api.php/provide/vod/",
+        "api": "https://www.ecmys.com/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1,
@@ -2520,7 +2520,7 @@
         "ext": {
           "影片类型": "圥忈制作",
           "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-          "分类url": "https://gh-proxy.com/www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
         }
       },
@@ -2563,7 +2563,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.qmjzys.com/api.php/app/"
+        "ext": "https://www.qmjzys.com/api.php/app/"
       },
       {
         "key": "大米星球",
@@ -2574,7 +2574,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/dmxqfilmtime.com/api.php/app/"
+        "ext": "https://dmxqfilmtime.com/api.php/app/"
       },
       {
         "key": "子子影视",
@@ -2633,14 +2633,14 @@
         "name": "🎥｜天天美剧",
         "type": 3,
         "api": "csp_AppYsV2",
-        "ext": "https://gh-proxy.com/www.ttmja.com/api.php/app/",
+        "ext": "https://www.ttmja.com/api.php/app/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1"
       },
       {
         "key": "天空资源",
         "name": "🎥｜天空",
         "type": 1,
-        "api": "https://gh-proxy.com/m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
+        "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
@@ -2684,7 +2684,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</span>",
-          "分类url": "https://gh-proxy.com/www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+          "分类url": "https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
           "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"
         }
       },
@@ -2697,7 +2697,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.kuin.one/api.php/app/"
+        "ext": "https://www.kuin.one/api.php/app/"
       },
       {
         "key": "可乐影视",
@@ -2710,7 +2710,7 @@
         "filterable": 1,
         "ext": {
           "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
-          "分类url": "https://gh-proxy.com/www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
         }
       },
@@ -2723,7 +2723,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.nntv.in/api.php/v1.vod"
+        "ext": "https://www.nntv.in/api.php/v1.vod"
       },
       {
         "key": "永乐视频",
@@ -2737,7 +2737,7 @@
         "ext": {
           "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
-          "分类url": "https://gh-proxy.com/www.59v.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+          "分类url": "https://www.59v.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
           "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
           "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他",
@@ -2780,7 +2780,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqXBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.gdqrcloud.com/{cateId}/{class}_{area}_{year}_{by}_{catePg}.html;;x",
+          "分类url": "https://www.gdqrcloud.com/{cateId}/{class}_{area}_{year}_{by}_{catePg}.html;;x",
           "分类": "电影$kan-movie#电视剧$kan-tv#综艺$kan-variety#动漫$kan-animation",
           "剧情": "剧情$juqing#喜剧$xiju#动作$dongzuo#爱情$aiqing#惊悚$jingsong#犯罪$fanzui#恐怖$kongbu#悬疑$xuanyi#奇幻$qihuan#冒险$maoxian#科幻$kehuan#纪录片$jilupian#家庭$jiating#战争$zhanzheng#古装$guzhuang#历史$lishi#传记$zhuanji#情色$qingse#武侠$wuxia#音乐$yinyue#运动$yundong#同性$tongxing#歌舞$gewu#短片$duanpian#儿童$ertong#本片$benpian#伦理$lunli#动画$donghua#西部$xibu||剧情$juqing#爱情$aiqing#喜剧$xiju#悬疑$xuanyi#犯罪$fanzui#古装$guzhuang#奇幻$qihuan#动作$dongzuo#惊悚$jingsong#家庭$jiating#科幻$kehuan#历史$lishi#战争$zhanzheng#冒险$maoxian#同性$tongxing#恐怖$kongbu#短片$duanpian#武侠$wuxia#日本$riben#传记$zhuanji#纪录片$jilupian#运动$yundong#音乐$yinyue#儿童$ertong#故事$gushi#该剧$gaiju#本剧$benju||音乐$yinyue#节目$jiemu#歌舞$gewu#喜剧$xiju#爱情$aiqing#纪录片$jilupian#运动$yundong#一档$yidang#家庭$jiating#卫视$weishi#悬疑$xuanyi#经视$jingshi#访谈$fangtan#体验$tiyan#天姿$tianzi#开心$kaixin#故事$gushi#儿童$ertong#文化$wenhua#明星$mingxing#生活$shenghuo#经典$jingdian||动画$donghua#冒险$maoxian#喜剧$xiju#奇幻$qihuan#剧情$juqing#动作$dongzuo#科幻$kehuan#家庭$jiating#儿童$ertong#短片$duanpian#爱情$aiqing#动漫$dongman#悬疑$xuanyi#古装$guzhuang#武侠$wuxia#惊悚$jingsong#音乐$yinyue#歌舞$gewu#运动$yundong#犯罪$fanzui#战争$zhanzheng#恐怖$kongbu#历史$lishi#同性$tongxing#故事$gushi#世界$shijie#配音$peiyin#热血$rexue"
         }
@@ -2803,7 +2803,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.jnyxgjg.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+          "分类url": "https://www.jnyxgjg.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
           "分类": "短剧$40#电视剧$2#电影$1#动漫$4#综艺$3"
         }
       },
@@ -2839,7 +2839,7 @@
           "线路数组": "module-tab-itemtab-item&&</div>",
           "线路标题": "<span>&&</span>",
           "播放数组": "module-blocklist\">&&</div>",
-          "分类url": "https://gh-proxy.com/www.laowang.co/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+          "分类url": "https://www.laowang.co/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
           "分类": "短剧$duanju#电视剧$tv#电影$movie#动漫$animation#综艺$tvshow"
         }
       },
@@ -2847,7 +2847,7 @@
         "key": "艾旦影视",
         "name": "🎥｜艾旦",
         "type": 1,
-        "api": "https://gh-proxy.com/lovedan.net/api.php/provide/vod/",
+        "api": "https://lovedan.net/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1,
@@ -2881,8 +2881,8 @@
         "ext": {
           "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
-          "主页url": "https://gh-proxy.com/www.midianshi.com/",
-          "分类url": "https://gh-proxy.com/www.midianshi.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+          "主页url": "https://www.midianshi.com/",
+          "分类url": "https://www.midianshi.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
           "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu"
         }
@@ -2906,7 +2906,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/nnystv.cn/api.php/app/"
+        "ext": "https://nnystv.cn/api.php/app/"
       },
       {
         "key": "没事影院",
@@ -2918,7 +2918,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
         }
       },
@@ -2938,7 +2938,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html;;d0",
+          "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html;;d0",
           "分类": "电视剧$dianshiji#电影$dianying#动漫$dongmna#综艺$zongyi"
         }
       },
@@ -2951,7 +2951,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "playerType": 1,
-        "jar": "https://gh-proxy.com/www.gitlink.org.cn/attachments/entries/get_file?download_url=https://gh-proxy.com/www.gitlink.org.cn/api/qdpdwjx/ziyuan/raw/JAR%2Fnmys.jar?ref=master"
+        "jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/qdpdwjx/ziyuan/raw/JAR%2Fnmys.jar?ref=master"
       },
       {
         "key": "泥巴影院",
@@ -2968,7 +2968,7 @@
           "影片类型": "类别：&&</a>",
           "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc col-pd clearfix&&</div>",
           "分类": "电影$1#电视剧$2#动漫$30#综艺$29#动画电影$24#纪录片$22",
-          "分类url": "https://gh-proxy.com/nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"
+          "分类url": "https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"
         }
       },
       {
@@ -2979,7 +2979,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.kuin.one/api.php/app/"
+        "ext": "https://www.kuin.one/api.php/app/"
       },
       {
         "key": "花姐影院",
@@ -2998,8 +2998,8 @@
           "线路标题": "</i>&&</a>",
           "播放数组": "<ul class=\"myui-content__list&&</ul",
           "跳转播放链接": "var now=\"&&\"",
-          "搜索url": "https://gh-proxy.com/www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-          "分类url": "https://gh-proxy.com/www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
           "分类": "电视剧&电影&综艺&动漫",
           "分类值": "2&1&3&4"
         }
@@ -3033,7 +3033,7 @@
           "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
           "线路数组": "data-dropdown-value=&&</div>[不包含:芒果(超多弹幕)#腾讯(超多弹幕)#优酷(超多弹幕)#爱奇艺(超多弹幕)]",
           "线路标题": "<span>&&</span>",
-          "分类url": "https://gh-proxy.com/www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#短剧$25"
         }
       },
@@ -3065,7 +3065,7 @@
         "ext": {
           "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
-          "主页url": "https://gh-proxy.com/www.meizhifeng.com/",
+          "主页url": "https://www.meizhifeng.com/",
           "分类url": "/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
           "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
           "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu",
@@ -3094,7 +3094,7 @@
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
-          "主页url": "https://gh-proxy.com/www.hapetv.com/",
+          "主页url": "https://www.hapetv.com/",
           "副标题": "pic-texttext-right\">&&</b>",
           "图片": "data-original=\"&&\"",
           "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -3104,7 +3104,7 @@
           "导演": "导演：&&</div>",
           "主演": "主演：&&</div>",
           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$38",
-          "分类url": "https://gh-proxy.com/www.hapetv.com/vod-show/{cateId}-{area}-------{catePg}---{year}/"
+          "分类url": "https://www.hapetv.com/vod-show/{cateId}-{area}-------{catePg}---{year}/"
         }
       },
       {
@@ -3116,7 +3116,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/siguyy.cn/api.php/app/"
+        "ext": "https://siguyy.cn/api.php/app/"
       },
       {
         "key": "星辰影院",
@@ -3130,7 +3130,7 @@
         "ext": {
           "影片类型": "圥忈制作",
           "播放标题": ">&&<[不包含:1080P]",
-          "分类url": "https://gh-proxy.com/citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+          "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
           "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
         }
       },
@@ -3138,7 +3138,7 @@
         "key": "皇冠影视",
         "name": "🎥｜皇冠",
         "type": 1,
-        "api": "https://gh-proxy.com/hong.hgyx.vip/api.php/provide/vod/",
+        "api": "https://hong.hgyx.vip/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fty0805.jar;md5;879413aef2725111a880006feb14bfea"
       },
       {
@@ -3153,8 +3153,8 @@
         "ext": {
           "免嗅": "1",
           "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
-          "搜索url": "https://gh-proxy.com/www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
-          "分类url": "https://gh-proxy.com/www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://gh-proxy.com/www.kpkuang.one/vodtype/{cateId}/]",
+          "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+          "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]",
           "分类": "国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"
         }
       },
@@ -3166,7 +3166,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/happy.jar;md5;56ffe5fc72be5f94267be472b59540a7",
         "ext": {
           "简介": "+line-height: 20px;\">&&</div>",
-          "分类url": "https://gh-proxy.com/honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+          "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
           "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
         }
       },
@@ -3193,7 +3193,7 @@
         "ext": {
           "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
-          "主页url": "https://gh-proxy.com/www.flixflop.com",
+          "主页url": "https://www.flixflop.com",
           "数组": "<a&&</a>",
           "图片": "src=\"&&\"",
           "标题": "alt=\"&&\"",
@@ -3206,7 +3206,7 @@
           "播放列表": "<a&&/a>",
           "播放标题": "✨+>&&<",
           "简介": "✨味精影院为您介绍剧情✨+<div class=\"mt-4\">&&</div>",
-          "分类url": "https://gh-proxy.com/www.flixflop.com/explore/{cateId}?page={catePg}&area={area}&genre={class}&year={year}&language={lang}&sort={by}",
+          "分类url": "https://www.flixflop.com/explore/{cateId}?page={catePg}&area={area}&genre={class}&year={year}&language={lang}&sort={by}",
           "分类": "电影$151438147786375168#电视剧$151438147794763777#动漫$151438147807346690#综艺$151438147807346691#体育$151438147807346693#电影解说$204814944317734918#短剧$331153971999670710"
         }
       },
@@ -3226,7 +3226,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gh-proxy.com/www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
         }
       },
@@ -3236,7 +3236,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "ext": {
-          "分类url": "https://gh-proxy.com/www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
+          "分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
         },
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5"
@@ -3263,7 +3263,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
         }
       },
@@ -3277,7 +3277,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#纪录片$40"
         }
       },
@@ -3298,7 +3298,7 @@
           "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④#蓝光⑤#蓝光⑥]",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
           "播放数组": "<div class=\"module-play-list\"&&</div>",
-          "分类url": "https://gh-proxy.com/www.cbhfox.com/chbys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.cbhfox.com/chbys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
         }
       },
@@ -3311,7 +3311,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/zjtu.one/api.php/app/"
+        "ext": "https://zjtu.one/api.php/app/"
       },
       {
         "key": "高清在线",
@@ -3322,7 +3322,7 @@
         "ext": {
           "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
           "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-          "分类url": "https://gh-proxy.com/www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+          "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
           "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
         }
       },
@@ -3344,7 +3344,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
           "线路标题": "[不包含:海外看资源#高清云播放器]",
-          "分类url": "https://gh-proxy.com/darkvod.com/video/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+          "分类url": "https://darkvod.com/video/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
           "分类": "短剧$shuangwenduanju#电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
         }
       },
@@ -3352,7 +3352,7 @@
         "key": "黑墙影视",
         "name": "🎥｜黑墙",
         "type": 1,
-        "api": "https://gh-proxy.com/blackwallvideo.online/api.php/provide/vod/",
+        "api": "https://blackwallvideo.online/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1
@@ -3365,7 +3365,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
           "简介": "小林子为您剧情介绍:+<p>◎影片简介:</p>&&</div>",
-          "分类url": "https://gh-proxy.com/auete.pro/{cateId}/{class}/index{catePg}.html[https://gh-proxy.com/auete.pro/{cateId}/{class}/index.html]",
+          "分类url": "https://auete.pro/{cateId}/{class}/index{catePg}.html[https://auete.pro/{cateId}/{class}/index.html]",
           "筛选": "1",
           "剧情": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp#惊悚片$jsp||香港剧$tvbgj#国产剧$neidi#台湾剧$taiju#欧美剧$oumei#日剧$riju#韩剧$hanju#网剧$wangju#泰剧$yataiju||大陆综艺$guozong#日韩综艺$hanzong#欧美综艺$meizong||国产动漫$guoman#日本动漫$riman#欧美动漫$meiman$动画$donghua||记录片$Jlp#经典片$Jdp#经典剧$Jdj#网大电影$wlp#国产老电影$laodianying",
           "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita"
@@ -3389,7 +3389,7 @@
           "影片状态": "备注：&&</div>",
           "影片类型": "module-info-tag\">&&立即播放",
           "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-          "分类url": "https://gh-proxy.com/www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+          "分类url": "https://www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
           "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
         }
       },
@@ -3404,7 +3404,7 @@
         "filterable": 1,
         "ext": {
           "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-          "分类url": "https://gh-proxy.com/www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$2#电视剧$1#动漫$3#综艺$4"
         }
       },
@@ -3416,7 +3416,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
           "副标题": "hl-lc-1remarks\">*&nbsp;|&nbsp;&&</span>",
-          "分类url": "https://gh-proxy.com/www.nuantv.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+          "分类url": "https://www.nuantv.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
           "分类": "国产剧$lj#电视剧$dsj#电影$dy#动漫$dm"
         }
       },
@@ -3448,7 +3448,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/ys.51bro.cn/mogai_api.php/v1.vod"
+        "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
       },
       {
         "key": "电影驿站",
@@ -3467,7 +3467,7 @@
           "影片状态": "备注：&&</div>",
           "影片类型": "module-info-tag\">&&立即播放",
           "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-          "分类url": "https://gh-proxy.com/www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动画片$31#B站$41#短剧$49#电影解说$32"
         }
       },
@@ -3490,7 +3490,7 @@
         "ext": {
           "简介": "小林子为您剧情介绍:+line-height:20px;\">&&</div>",
           "线路数组": "module-tab-itemtab-item\"&&</div>",
-          "分类url": "https://gh-proxy.com/www.wangfei.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.wangfei.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "国产剧$guochanju#电影$dy#电视剧$juji#综艺$zongyi#动漫$dongman"
         }
       },
@@ -3557,7 +3557,7 @@
           "标题": "alt=\"&&\">",
           "副标题": "module-item-text\">&&</div>",
           "播放数组": "module-blocklistscroll-boxscroll-box-y\">&&</div>",
-          "分类url": "https://gh-proxy.com/sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"
         }
       },
@@ -3570,7 +3570,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.tvkuys.xyz/api.php/app/"
+        "ext": "https://www.tvkuys.xyz/api.php/app/"
       },
       {
         "key": "饺子影视",
@@ -3588,7 +3588,7 @@
         "type": 3,
         "api": "csp_AppYsV2",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "ext": "https://gh-proxy.com/www.zjtu.one/api.php/app/"
+        "ext": "https://www.zjtu.one/api.php/app/"
       },
       {
         "key": "影视大全",
@@ -3602,7 +3602,7 @@
         "ext": {
           "影片地区": "圥忈制作",
           "影片年代": "<p class=\"module-info-item-content&&</p>",
-          "分类url": "https://gh-proxy.com/www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+          "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
           "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
         }
       },
@@ -3617,7 +3617,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "主页url": "https://gh-proxy.com/m.xian372.top/",
+          "主页url": "https://m.xian372.top/",
           "请求头": "手机",
           "编码": "gb2312",
           "数组": "<a class=\"ui-pic&&</a",
@@ -3636,11 +3636,11 @@
           "搜索图片": "src=\"&&\"",
           "搜索标题": "title=\"&&\"",
           "搜索链接": "href=\"&&\"",
-          "搜索url": "https://gh-proxy.com/m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1",
+          "搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1",
           "分类数组": "<a&&</a",
           "分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]",
           "分类ID": "href=\"/L/&&.html\"",
-          "分类url": "https://gh-proxy.com/m.xian372.top/L/{cateId}_{catePg}.html[https://gh-proxy.com/m.xian372.top/L/{cateId}.html]"
+          "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
         }
       },
       {
@@ -3653,8 +3653,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "搜索图片": "https://gh-proxy.com/vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
-          "分类url": "https://gh-proxy.com/www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
+          "分类url": "https://www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
         }
       },
@@ -3674,7 +3674,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gh-proxy.com/ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+          "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
           "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
         }
       },
@@ -3690,8 +3690,8 @@
         "ext": {
           "请求头": "User-Agent$MOBILE_UA",
           "编码": "UTF-8",
-          "主页url": "https://gh-proxy.com/www.ncshdxx.com/",
-          "分类url": "https://gh-proxy.com/www.ncshdxx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+          "主页url": "https://www.ncshdxx.com/",
+          "分类url": "https://www.ncshdxx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
           "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
           "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian#武侠片$wuxiapian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||空||空"
         }
@@ -3702,13 +3702,13 @@
         "type": 3,
         "api": "csp_AppYsV2",
         "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-        "ext": "https://gh-proxy.com/4kdyg.top/api.php/v1.vod"
+        "ext": "https://4kdyg.top/api.php/v1.vod"
       },
       {
         "key": "暴风",
         "name": "🎥｜暴风",
         "type": 1,
-        "api": "https://gh-proxy.com/bfzyapi.com/api.php/provide/vod/?ac=list",
+        "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
         "searchable": 1,
         "changeable": 1
       },
@@ -3723,7 +3723,7 @@
           "线路数组": "<li&&</li>",
           "线路二次截取": "<ulid=\"play\">&&</ul>",
           "线路标题": ">&&<",
-          "分类url": "https://gh-proxy.com/www.yu992.com/lys/ly{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://www.yu992.com/lys/ly{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "电影$Movie#电视剧$Tv#综艺$Variety#动漫$Cartoon"
         }
       },
@@ -3748,7 +3748,7 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "ext": {
           "分类"   : "电影$1#电视剧$2#动漫$4#综艺$5"                 ,
-          "分类url": "https://gh-proxy.com/rebozj.pro/type/{cateId}.html"
+          "分类url": "https://rebozj.pro/type/{cateId}.html"
         }
       },
       {
@@ -3772,8 +3772,8 @@
           "搜索图片": "data-original=\"&&\"",
           "搜索标题": "title=\"&&\"",
           "搜索链接": "href=\"&&\"",
-          "搜索url": "https://gh-proxy.com/wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
-          "分类url": "https://gh-proxy.com/wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+          "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+          "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
           "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
         }
       },
@@ -3787,8 +3787,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "api": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-        "ext": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+        "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
       },
       {
         "key": "醉挽清风",
@@ -3800,7 +3800,7 @@
         "filterable": 1,
         "order_num": 0,
         "playUrl": "json:http://103.117.123.51:6523/zhuimi666.php?url=",
-        "ext": "https://gh-proxy.com/gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
+        "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
         "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
       },
       {
@@ -3819,7 +3819,7 @@
           "影片类型": "module-info-tag\">&&立即播放",
           "线路数组": "data-dropdown-value=&&</div>",
           "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://gh-proxy.com/nuu.su/x/id/{cateId}-{area}-{by}-{class}-{catePg}-{year}.html",
+          "分类url": "https://nuu.su/x/id/{cateId}-{area}-{by}-{class}-{catePg}-{year}.html",
           "分类": "电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"
         }
       },
@@ -3833,7 +3833,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
         }
       },
@@ -3857,7 +3857,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/www.heli888.cc/api.php/app/"
+        "ext": "https://www.heli888.cc/api.php/app/"
       },
       {
         "key": "白雾影视",
@@ -3869,11 +3869,11 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "搜索url": "https://gh-proxy.com/www.baiwoo.com/search.php?searchword={wd}",
+          "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
           "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
           "线路数组": "<span style=\"font-size:16px;&&</span>",
           "线路标题": ">&&<",
-          "分类url": "https://gh-proxy.com/www.baiwoo.com/{cateId}-{catePg}.html",
+          "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
           "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"
         }
       },
@@ -3890,8 +3890,8 @@
           "图片": "data-src=\"&&\"",
           "线路数组": "<a class=\"swiper-slide\"&&</a>",
           "线路标题": "</i>&nbsp;&&</a>+集",
-          "搜索url": "https://gh-proxy.com/www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
-          "分类url": "https://gh-proxy.com/www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
+          "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
           "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
         }
       },
@@ -4014,7 +4014,7 @@
         "ext": {
           "简介": "醉卧东风祝您观影愉快",
           "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
-          "分类url": "https://gh-proxy.com/duanju8.cc/type/{cateId}/page/{catePg}.html"
+          "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
         },
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
       },
@@ -4084,7 +4084,7 @@
           "播放数组": "\"scroll-content\"&&</div>",
           "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
           "分类": "短剧$59",
-          "分类url": "https://gh-proxy.com/www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
+          "分类url": "https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
         },
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
       },
@@ -4237,7 +4237,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": {
-          "分类url": "https://gh-proxy.com/nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类url": "https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
           "分类": "TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
         }
       },
@@ -4355,7 +4355,7 @@
         "key": "魔都",
         "name": "动漫｜魔都",
         "type": 0,
-        "api": "https://gh-proxy.com/caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+        "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
         "searchable": 1,
         "changeable": 0,
         "categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "动漫电影", "里番动漫"]
@@ -4372,7 +4372,7 @@
         "ext": {
           "影片类型" : "分类：&&</a>"                                    ,
           "简介"   : "请勿相信影片中的广告，以免上当受骗。+简介：&&</p>"                 ,
-          "分类url": "https://gh-proxy.com/985dm.com/list/{cateId}-{catePg}.html",
+          "分类url": "https://985dm.com/list/{cateId}-{catePg}.html",
           "分类"   : "国产动漫$3#日本动漫$2#欧美动漫$4#动漫电影$1#短剧$20"
         }
       },
@@ -4481,7 +4481,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
       },
       {
         "key": "ksxjj",
@@ -4497,7 +4497,7 @@
         "name": "㊙︎｜虎牙直播",
         "type": 3,
         "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "ext": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
         "style": {"type": "rect", "ratio": 1.755},
         "playerType": "1",
         "searchable": 1,
@@ -4509,8 +4509,8 @@
         "key": "斗鱼js",
         "name": "㊙︎｜斗鱼直播",
         "type": 3,
-        "api": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-        "ext": "https://gh-proxy.com/gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
+        "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
         "style": {"type": "rect", "ratio": 1.755},
         "playerType": "1",
         "searchable": 1,
@@ -4585,7 +4585,7 @@
         "key": "服务器油管",
         "name": "㊙︎｜YOUTUBE",
         "type": 4,
-        "api": "https://gh-proxy.com/api.paoyun.eu.org/yt/yt001.php",
+        "api": "https://api.paoyun.eu.org/yt/yt001.php",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "searchable": 1,
         "changeable": 1,
@@ -4595,7 +4595,7 @@
         "key": "油管播放列表",
         "name": "㊙︎｜油管播放列表",
         "type": 4,
-        "api": "https://gh-proxy.com/api.paoyun.eu.org/ytlb.php",
+        "api": "https://api.paoyun.eu.org/ytlb.php",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
         "searchable": 1,
         "changeable": 1
@@ -4714,7 +4714,7 @@
         "key": "1080资源库",
         "name": "🧲｜1080资源库(切)",
         "type": 1,
-        "api": "https://gh-proxy.com/api.1080zyku.com/inc/api_mac10.php",
+        "api": "https://api.1080zyku.com/inc/api_mac10.php",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
@@ -4728,7 +4728,7 @@
         "key": "php_feifanziyuan",
         "name": "🧲｜非凡",
         "type": 4,
-        "api": "https://gh-proxy.com/json.doube.eu.org/app/index.php?site=webfeifanziyuan",
+        "api": "https://json.doube.eu.org/app/index.php?site=webfeifanziyuan",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
@@ -4738,7 +4738,7 @@
         "key": "索尼资源",
         "name": "🧲｜索尼",
         "type": 1,
-        "api": "https://gh-proxy.com/suoniapi.com/api.php/provide/vod/?ac=list",
+        "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
         "playUrl": "",
         "searchable": 1,
         "quickSearch": 1,
@@ -4779,7 +4779,7 @@
         "key": "xml_光速",
         "name": "🧲｜光速",
         "type": 1,
-        "api": "https://gh-proxy.com/api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4793,7 +4793,7 @@
         "key": "U酷资源",
         "name": "🧲｜U酷",
         "type": 1,
-        "api": "https://gh-proxy.com/api.ukuapi.com/api.php/provide/vod/",
+        "api": "https://api.ukuapi.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4807,7 +4807,7 @@
         "key": "虎牙资源",
         "name": "🧲｜虎牙",
         "type": 1,
-        "api": "https://gh-proxy.com/www.huyaapi.com/api.php/provide/vod/",
+        "api": "https://www.huyaapi.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4821,7 +4821,7 @@
         "key": "快车资源",
         "name": "🧲｜快车",
         "type": 1,
-        "api": "https://gh-proxy.com/caiji.kczyapi.com/api.php/provide/vod/",
+        "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
@@ -4835,7 +4835,7 @@
         "key": "金鹰资源",
         "name": "🧲｜金鹰",
         "type": 1,
-        "api": "https://gh-proxy.com/jyzyapi.com/provide/vod/",
+        "api": "https://jyzyapi.com/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
@@ -4848,7 +4848,7 @@
         "key": "无尽资源",
         "name": "🧲｜无尽",
         "type": 1,
-        "api": "https://gh-proxy.com/api.wujinapi.me/api.php/provide/vod/?ac=list",
+        "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4863,7 +4863,7 @@
         "key": "360",
         "name": "🧲｜360",
         "type": 1,
-        "api": "https://gh-proxy.com/360zy.com/api.php/provide/vod?",
+        "api": "https://360zy.com/api.php/provide/vod?",
         "searchable": 1,
         "changeable": 1,
         "categories": [
@@ -4888,7 +4888,7 @@
         "key": "飘零资源",
         "name": "🧲｜飘零",
         "type": 1,
-        "api": "https://gh-proxy.com/p2100.net/api.php/provide/vod/",
+        "api": "https://p2100.net/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
@@ -4934,7 +4934,7 @@
         "name": "🧲｜黑木耳资源｜PHP",
         "type": 1,
         "api": "http://json.heimuer.xyz/api.php/provide/vod/",
-        "playurl": "https://gh-proxy.com/hoplayer.com/index.html?url=",
+        "playurl": "https://hoplayer.com/index.html?url=",
         "searchable": 1,
         "quickSearch": 1,
         "categories": [
@@ -4951,10 +4951,10 @@
         "key": "优质资源",
         "name": "🧲｜1080",
         "type": 0,
-        "api": "https://gh-proxy.com/api.1080zyku.com/inc/ldg_api.php",
+        "api": "https://api.1080zyku.com/inc/ldg_api.php",
         "searchable": 1,
         "quickSearch": 1,
-        "playurl": "https://gh-proxy.com/vip.zykbf.com/?url=",
+        "playurl": "https://vip.zykbf.com/?url=",
         "categories": [
           "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "台湾片" ,
           "韩国剧" , "欧美剧" , "香港剧" , "泰国剧" , "日本剧" , "福利"  , "纪录片" , "动画片" , "海外剧" ,
@@ -5021,7 +5021,7 @@
         "key": "爱坤",
         "name": "🧲｜爱坤",
         "type": 1,
-        "api": "https://gh-proxy.com/ikunzyapi.com/api.php/provide/vod?",
+        "api": "https://ikunzyapi.com/api.php/provide/vod?",
         "searchable": 1,
         "changeable": 1,
         "categories": [
@@ -5109,7 +5109,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "主页url": "https://gh-proxy.com/xunlei8.top/",
+        "主页url": "https://xunlei8.top/",
         "数组": "class=\"b33c0\"&&</a>",
         "图片": "src=\"&&\"",
         "图片代理": "1",
@@ -5120,7 +5120,7 @@
         "播放列表": "<a&&</a",
         "播放标题": "\">&&</a>",
         "播放链接": "href=\"&&\"",
-        "分类url": "https://gh-proxy.com/xunlei8.top/{cateId}-{class}-{year}-{area}-date-{catePg}-30.html",
+        "分类url": "https://xunlei8.top/{cateId}-{class}-{year}-{area}-date-{catePg}-30.html",
         "分类": "剧集$tv#电影$list"
       },
       {
@@ -5142,7 +5142,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/e3wuwu4.com/api.php/app/"
+        "ext": "https://e3wuwu4.com/api.php/app/"
       },
       {
         "key": "drpy_js_蛋蛋赞",
@@ -5157,7 +5157,7 @@
         "key": "csp_xml_红牛",
         "name": "🧲｜红牛",
         "type": 1,
-        "api": "https://gh-proxy.com/www.hongniuzy2.com/api.php/provide/vod/",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
         "playerType": 2,
         "categories": [
           "动作片" , "喜剧片" , "科幻片" , "恐怖片" , "爱情片" , "剧情片" , "战争片" , "纪录片" , "动漫电影",
@@ -5225,7 +5225,7 @@
         "key": "IK",
         "name": "🧲｜IK",
         "type": 1,
-        "api": "https://gh-proxy.com/ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+        "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
         "categories": [
           "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "灾难片" , "犯罪片" ,
           "悬疑片" , "惊悚片" , "奇幻片" , "冒险片" , "武侠片" , "其它片" , "国产剧" , "港台剧" , "日韩剧" ,
@@ -5248,13 +5248,13 @@
         "quickSearch": 1,
         "filterable": 1,
         "changeable": 1,
-        "ext": "https://gh-proxy.com/v.aikanbot.com$$$proxy"
+        "ext": "https://v.aikanbot.com$$$proxy"
       },
       {
         "key": "ikun资源",
         "name": "🧲｜ikun资源",
         "type": 1,
-        "api": "https://gh-proxy.com/www.ikunzy.com/api.php/provide/vod/",
+        "api": "https://www.ikunzy.com/api.php/provide/vod/",
         "searchable": 1,
         "categories": [
           "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "国产剧" , "香港剧" ,
@@ -5328,8 +5328,8 @@
         "ext": {
         "spider": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "主页url": "https://gh-proxy.com/gimy.ai/",
-        "分类url": "https://gh-proxy.com/gimy.ai/cat/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "主页url": "https://gimy.ai/",
+        "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}------{catePg}---{year}.html",
         "分类": "電視劇#動漫#電影#綜藝",
         "分类值": "2&30&1&29",
         "类型": "劇情片$11#動作片$6#科幻片$9#喜劇片$7#恐怖片$10#愛情片$8#戰爭片$12#動畫電影$24||陸劇$13#韓劇$20#美劇$16#日劇$15#台劇$14#港劇$21#海外劇$31#紀錄片$22#微短劇$34||空||空",
@@ -5399,7 +5399,7 @@
         "key": "BILFUN影视",
         "name": "🎥｜有趣｜(失效)",
         "type": 1,
-        "api": "https://gh-proxy.com/c.waijutv.cc/api.php/provide/vod/",
+        "api": "https://c.waijutv.cc/api.php/provide/vod/",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "searchable": 1,
         "quickSearch": 1
@@ -5451,7 +5451,7 @@
       {
         "name": "1080解析1",
         "type": 1,
-        "url": "https://gh-proxy.com/jxjson.icu/neibu.php?url=",
+        "url": "https://jxjson.icu/neibu.php?url=",
         "ext": {
           "flag": [
             "qq"      , "腾讯"      , "qiyi"    , "爱奇艺"     , "奇艺"      ,
@@ -5465,7 +5465,7 @@
       {
         "name": "1080解析",
         "type": 1,
-        "url": "https://gh-proxy.com/jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
+        "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
         "ext": {
           "flag": [
             "qq"      , "腾讯"      , "qiyi"    , "爱奇艺"     , "奇艺"      ,
@@ -5476,7 +5476,7 @@
           "header": {"User-Agent": "okhttp/4.9.1"}
         }
       },
-      {"name": "牛牛", "type": 1, "url": "https://gh-proxy.com/jiexi.niuniuzy.org/m3u8/?url="},
+      {"name": "牛牛", "type": 1, "url": "https://jiexi.niuniuzy.org/m3u8/?url="},
       {
         "name": "解析2",
         "type": 1,
@@ -5491,26 +5491,26 @@
       {
         "name": "西瓜1",
         "type": 0,
-        "url": "https://gh-proxy.com/t1.qlplayer.cyou/player/analysis.php?v="
+        "url": "https://t1.qlplayer.cyou/player/analysis.php?v="
       },
-      {"name": "西瓜2", "type": 0, "url": "https://gh-proxy.com/t1.qlplayer.cyou/player/?url="},
+      {"name": "西瓜2", "type": 0, "url": "https://t1.qlplayer.cyou/player/?url="},
       {
         "name": "初恋1",
         "type": 0,
-        "url": "https://gh-proxy.com/ys.zf520.cn/addons/dp/player/index.php?key=0&url="
+        "url": "https://ys.zf520.cn/addons/dp/player/index.php?key=0&url="
       },
       {
         "name": "初恋2",
         "type": 0,
-        "url": "https://gh-proxy.com/ys.zf520.cn/addons/dp/player/dp.php?key=0&from=&id=&api=&url="
+        "url": "https://ys.zf520.cn/addons/dp/player/dp.php?key=0&from=&id=&api=&url="
       },
       {
         "name": "嗅探1",
         "type": 0,
-        "url": "https://gh-proxy.com/jx.jsonplayer.com/player/?url="
+        "url": "https://jx.jsonplayer.com/player/?url="
       },
-      {"name": "嗅探2", "type": 0, "url": "https://gh-proxy.com/jx.777jiexi.com/player/?url="},
-      {"name": "嗅探3", "type": 0, "url": "https://gh-proxy.com/jx.xmflv.com/?url="},
+      {"name": "嗅探2", "type": 0, "url": "https://jx.777jiexi.com/player/?url="},
+      {"name": "嗅探3", "type": 0, "url": "https://jx.xmflv.com/?url="},
       {
         "name": "观音解析",
         "type": 1,
@@ -5558,14 +5558,14 @@
       },
       {
         "name": "白茶嗅探",
-        "url": "https://gh-proxy.com/jx.bozrc.com:4433/player/?url=",
+        "url": "https://jx.bozrc.com:4433/player/?url=",
         "showType": 1
       },
-      {"name": "滇红嗅探", "type": 0, "url": "https://gh-proxy.com/jx.777jiexi.com/player/?url="},
+      {"name": "滇红嗅探", "type": 0, "url": "https://jx.777jiexi.com/player/?url="},
       {
         "name": "毛尖嗅探",
         "type": 0,
-        "url": "https://gh-proxy.com/jx.bozrc.com:4433/player/?url=",
+        "url": "https://jx.bozrc.com:4433/player/?url=",
         "ext": {
           "header": {"User-Agent": "okhttp/4.1.0"},
           "flag": [
@@ -5580,17 +5580,17 @@
       {
         "name": "岩茶嗅探",
         "type": 0,
-        "url": "https://gh-proxy.com/jx.ppjbk.cn/?url=",
+        "url": "https://jx.ppjbk.cn/?url=",
         "ext": { "header": {"User-Agent": "Mozilla/5.0"} }
       },
       {
         "name": "小种嗅探",
         "type": 0,
-        "url": "https://gh-proxy.com/jx.jsonplayer.com/player/?url="
+        "url": "https://jx.jsonplayer.com/player/?url="
       },
       {
         "name": "普洱嗅探",
-        "url": "https://gh-proxy.com/jx.bozrc.com:4433/player/?url=",
+        "url": "https://jx.bozrc.com:4433/player/?url=",
         "type": 0,
         "ext": {
           "flag": [
@@ -5606,7 +5606,7 @@
       {
         "name": "红茶嗅探",
         "type": 0,
-        "url": "https://gh-proxy.com/jx.4kdv.com/?url=",
+        "url": "https://jx.4kdv.com/?url=",
         "ext": {
           "header": {"User-Agent": "okhttp/4.1.0"},
           "flag": [
@@ -5709,7 +5709,7 @@
       "wan.51img1.com",
       "iqiyi.hbuioo.com",
       "vip.ffzyad.com",
-      "https://gh-proxy.com/lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+      "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
   }
   
