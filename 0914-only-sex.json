@@ -22,7 +22,7 @@
           "播放标题": "👙+_blank\">&&<",
           "嗅探词": "index.m3u8?",
           "分类url": "http://m.aogetu.com/wuyejuchang/{cateId}/index{catePg}.html[http://m.aogetu.com/wuyejuchang/{cateId}/]",
-          "分类": "倫理$lunli#寫真$xiezhen#露波$zhubo"
+          "分类": "倫理$lunli#寫真$xiezhen#主播$zhubo"
       }
   },
     {"key": "麻豆","name": "👊【撸到出血為止！】👊","type": 3,"changeable": 1,"filterable": 1,"api": "csp_XBPQ","jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","style": {"ratio": 1.7},"ext": {  "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",  "分类": "日本视频$1#麻豆视频$2",  "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",  "直接播放": "1"}},
