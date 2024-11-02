@@ -4,8 +4,8 @@
   "wallpaper": "https://picsum.photos/1080/",
   "sites": [
     {
-        "key": "👙91指尖的黑客",
-        "name": "老王測試",
+        "key": "91電影網",
+        "name": "獨創｜九一電影網",
         "type": 3,
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar",
         "api": "csp_XBPQ",
@@ -19,7 +19,7 @@
             "播放数组": "plau-ul-list&&</ul>",
             "播放列表": "<a&&a>",
             "播放链接": "href='&&'",
-            "播放标题": "👙+_blank\">&&<",
+            "播放标题": "_blank\">&&<",
             "嗅探词": "index.m3u8?",
             "分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
             "分类": "电影$dianying#电视剧$dianshiju#福利站$wuyejuchang#综艺娱乐$zongyiyule#动漫$dongmandonghua",
