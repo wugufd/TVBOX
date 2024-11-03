@@ -53,6 +53,7 @@
         "filterable": 1,
         "ext": {
 "请求头": "User-Agent$MOBILE_UA",
+"编码": "gb2312",
 "主页url": "http://m.aogetu.com/",
 "播放数组": "plau-ul-list&&</ul>",
 "播放列表": "<a&&a>",
