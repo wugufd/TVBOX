@@ -42,6 +42,20 @@
         },
         "style": {"type": "rect", "ratio": 1.77}
       },
+        {
+          "key": "qiyouys",
+          "name": "🍖｜奇优｜獨創",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+          "ext": {
+            "分类url": "https://www.qyvod.com/qyshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21"
+          }
+        },      
       {
         "key": "91電影網",
         "name": "🍖｜九一電影網｜獨創",
@@ -324,7 +338,7 @@
       },
       {
         "key": "csp_XYQHiker_奇优影院",
-        "name": "❤️｜奇优影院",
+        "name": "❤️｜奇优｜站源已死",
         "type": 3,
         "api": "csp_XYQHiker",
         "searchable": 1,
@@ -332,6 +346,20 @@
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/奇优影院.json",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
+      },
+      {
+        "key": "csp_XBPQ_qiyouyy2",
+        "name": "❤️｜奇优｜(備用)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/hccx.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
+        "ext": {
+          "分类url": "http://www.jzhcjs.com/qys/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+          "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$fuli#纪录片$jilu"
+        }
       },
       {
         "key": "drpy_js_小宝影院[飞]",
