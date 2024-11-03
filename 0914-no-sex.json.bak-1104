@@ -49,7 +49,7 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
         "ext":{
         "分类url":"https://www.qyvod.com/qyshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21"
