@@ -58,7 +58,7 @@
         "name": "🍖｜美益達影视｜獨創",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar":"https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar",
+        "jar":"https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "ext": {
               "分类url":"https://www.myd02.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
               "分类":"电影$1#电视剧$2#综艺$3#短剧$5#动漫$4"}
@@ -80,28 +80,8 @@
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": {
-          "主页url": "https://www.cfkj86.com/",
-          "简介": "</label>&&</div>",
-          "影片类型": "tags\">&&director\">",
-          "影片状态": "bottom\">&&</div>",
-          "二次截取": "videoList\":\\[&&\\]",
-          "数组": "{&&}[不包含:伦理剧]",
-          "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-          "标题": "vodName\":\"&&\"",
-          "副标题": "vodRemarks\":\"&&\"",
-          "链接": "https://www.cfkj86.com/detail/+vodId\":&&,",
-          "导演": "导演:</div>&&主演",
-          "主演": "主演:</div>&&别名",
-          "线路标题": "寶寳",
-          "播放数组": "listitem\">&&info\">",
-          "播放列表": "<a&&</a>",
-          "倒序": "否",
-          "搜索url": "https://www.cfkj86.com/vod/search/{wd}",
-          "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-        }
-      },
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/金牌影院.json"
+      }, 
       {
         "key": "金牌影视",
         "name": "优质｜銀牌影院",
@@ -332,17 +312,6 @@
         ]
       },
       {
-        "key": "hipy_js_厂长资源",
-        "name": "❤️｜厂长资源",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_lib/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/cangzan.js"
-      },
-      {
         "key": "csp_vs",
         "name": "❤️｜VS秒播",
         "type": 3,
@@ -351,7 +320,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/vsys.json"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/vsys.json"
       },
       {
         "key": "csp_XYQHiker_奇优影院",
@@ -361,7 +330,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/奇优影院.json",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/奇优影院.json",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar;md5;18d03edba7efd521b0e27025cce5127a"
       },
       {
@@ -502,31 +471,11 @@
       },
       {
         "key": "界界影视",
-        "name": "🧡｜界界資源",
+        "name": "🧡｜異界資源",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": {
-          "主页url": "https://www.hkybqufgh.com/",
-          "简介": "</label>&&</div>",
-          "影片类型": "tags\">&&director\">",
-          "影片状态": "bottom\">&&</div>",
-          "二次截取": "videoList\":\\[&&\\]",
-          "数组": "{&&}[不包含:伦理剧]",
-          "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-          "标题": "vodName\":\"&&\"",
-          "副标题": "vodRemarks\":\"&&\"",
-          "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-          "导演": "导演:</div>&&主演",
-          "主演": "主演:</div>&&别名",
-          "线路标题": "寶寳",
-          "播放数组": "listitem\">&&info\">",
-          "播放列表": "<a&&</a>",
-          "倒序": "否",
-          "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-          "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-        }
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/異界影視.json"
       },
       {
         "key": "8号影院",
@@ -5228,145 +5177,27 @@
         "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       {
-        "key": "hipy_js_文才[资]",
-        "name": "优质｜文才资源(跑不出來)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/文才[资].js"
-      },
-      {
-        "key": "hipy_js_北川影视",
-        "name": "🎥｜北川｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/北川影视.js"
-      },
-      {
-        "key": "hipy_js_干饭影视",
-        "name": "🎥｜干饭影视｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/干饭影视.js"
-      },
-      {
-        "key": "hipy_js_freeok",
-        "name": "🎥｜freeok｜(壞了)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/freeok.js"
-      },
-      {
         "key": "劇迷",
-        "name": "🎥｜劇迷(搜索播放用)",
+        "name": "🎥｜劇迷(純搜索用)",
         "type": 3,
         "api": "csp_XBPQ",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/gimy.json",
+        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "searchable": 1,
         "quickSearch": 1,
-        "ext": {
-        "spider": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b",
-        "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "主页url": "https://gimy.ai/",
-        "分类url": "https://gimy.ai/cat/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "電視劇#動漫#電影#綜藝",
-        "分类值": "2&30&1&29",
-        "类型": "劇情片$11#動作片$6#科幻片$9#喜劇片$7#恐怖片$10#愛情片$8#戰爭片$12#動畫電影$24||陸劇$13#韓劇$20#美劇$16#日劇$15#台劇$14#港劇$21#海外劇$31#紀錄片$22#微短劇$34||空||空",
-        "地区": "美國&歐美&韓國&中國大陸&大陸&內地&日本&台灣&香港&泰國&英國&新加坡&其他||中國大陸&大陸&韓國&日本&台灣&香港&美國&歐美&泰國&英國&法國&新加坡&其他||韓國&中國大陸&中國&大陸&日本&美國&歐美&台灣&臺灣&香港||中國大陸&中國&大陸&日本&美國&歐美&台灣&臺灣&香港&韓國",
-        "倒序": "否",
-        "年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&more",
-        "年份值": "*",
-        "排序": "更新排序&上架排序&週人气&總人气",
-        "排序值": "time&time_add&hits_week&hits"
-               }
+        "filterable": 1
       },
       {
-        "key": "hipy_js_大米星球",
-        "name": "🎥｜大米星球｜(失效)",
+        "key": "hipy_js_厂长资源",
+        "name": "❤️｜厂长资源｜(失效)",
         "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
+        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米星球.js"
-      },
-      {
-        "key": "hipy_js_大米星球[V2]",
-        "name": "🎥｜大米星球[V2]｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/大米星球[V2].js"
-      },
-      {
-        "key": "hipy_js_eFuns",
-        "name": "🎥｜eFuns｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/eFuns.js"
-      },
-      {
-        "key": "drpy_js_免费看",
-        "name": "🎥｜免费看｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/免费看.js"
-      },
-      {
-        "key": "drpy_js_北极狐[V2]",
-        "name": "🎥｜北极狐｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/北极狐[V2].js"
-      },
-      {
-        "key": "drpy_js_567电影院",
-        "name": "🎥｜567｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/567电影院.js"
-      },
-      {
-        "key": "BILFUN影视",
-        "name": "🎥｜有趣｜(失效)",
-        "type": 1,
-        "api": "https://c.waijutv.cc/api.php/provide/vod/",
-        "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1
-      },
-      {
-        "key": "hipy_js_掌心世界",
-        "name": "🎥｜掌心｜(失效)",
-        "type": 3,
-        "api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/掌心世界.js"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/cangzan.js"
       }
     ],
     "parses": [
