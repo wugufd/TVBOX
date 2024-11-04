@@ -153,10 +153,10 @@
         "name": "优质｜素白白",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "searchable": 1,
         "changeable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/素白白.js"
       },
       {
         "key": "T4-heimuer",
@@ -4046,6 +4046,25 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/河马短剧.json"
+      },
+      {
+        "key": "在线短剧",
+        "name": "📺｜在线短剧",
+        "type": 3,
+        "api": "csp_Duanju",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+        "searchable": 1,
+        "changeable": 0,
+        "style": {"type": "rect", "ratio": 1.433}
+      },
+      {
+        "key": "良品短剧",
+        "name": "📺｜良品短剧",
+        "type": 3,
+        "api": "csp_Wexduanjuvip",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/js/游魂家庭1.js",
+        "searchable": 1,
+        "changeable": 1
       },
       {
         "key": "动漫巴士",
