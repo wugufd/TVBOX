@@ -93,7 +93,7 @@
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/金牌影院.json"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/金牌影院.json"
       }, 
       {
         "key": "金牌影视",
