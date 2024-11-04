@@ -149,16 +149,6 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fan.txt;md5;8851819289f80deae32319080028db3b"
       },
       {
-        "key": "素白白影视",
-        "name": "优质｜素白白",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "changeable": 1,
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
-      },
-      {
         "key": "T4-heimuer",
         "name": "优质｜黑木耳(T4)",
         "type": 4,
@@ -5151,6 +5141,27 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
+      },
+      {
+        "key": "素白白影视",
+        "name": "优质｜素白白",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
+      },
+      {
+        "key": "hipy_js_素白白",
+        "name": "素白白(drpy_t3)",
+        "type": 3,
+        "api": "./drpy_libs/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "./drpy_js/素白白.js"
       },
       {
         "key": "hipy_js_厂长资源",
