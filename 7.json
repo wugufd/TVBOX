@@ -2474,17 +2474,27 @@
         "filterable": 1,
         "ext": "https://www.qmjzys.com/api.php/app/"
       },
+
       {
-        "key": "大米星球",
-        "name": "🎥｜大米",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://dmxqfilmtime.com/api.php/app/"
-      },
+        "key":"大米星球",
+        "name":"🎥｜大米",
+        "type":3,
+        "api":"csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":
+          {
+          "链接":"/vodplay/+/voddetail/&&.html+-1-1.html",
+          "播放数组":"<ul class=\"content_playlist list_scroll clearfix\">&&</ul>",
+          "播放标题":">&&</a>",
+          "播放列表":"<li&&/li>",
+          "播放链接":"href=\"&&\"",
+          "分类": "電影$20#電視劇$21#動漫$22#綜藝$23",
+          "分类url":"https://www.840f.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;mal"
+          }
+        },
       {
         "key": "子子影视",
         "name": "🎥｜子子影视",
@@ -2596,17 +2606,6 @@
           "分类url": "https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
           "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"
         }
-      },
-      {
-        "key": "北极狐",
-        "name": "🎥｜北极狐",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.kuin.one/api.php/app/"
       },
       {
         "key": "可乐影视",
@@ -2832,15 +2831,6 @@
         }
       },
       {
-        "key": "刺桐影视",
-        "name": "🎥｜刺桐",
-        "type": 1,
-        "api": "http://pg.cttv.vip/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1
-      },
-      {
         "key": "奇趣影视",
         "name": "🎥｜奇趣",
         "type": 3,
@@ -2850,45 +2840,6 @@
           "分类url": "https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html;;d0",
           "分类": "电视剧$dianshiji#电影$dianying#动漫$dongmna#综艺$zongyi"
         }
-      },
-      {
-        "key": "旺旺影视",
-        "name": "🎥｜旺旺",
-        "type": 3,
-        "api": "csp_WexNmys",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "playerType": 1,
-        "jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/qdpdwjx/ziyuan/raw/JAR%2Fnmys.jar?ref=master"
-      },
-      {
-        "key": "泥巴影院",
-        "name": "🎥｜泥巴",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "影片地区": "圥忈制作",
-          "影片状态": "状态：&&</p>",
-          "影片类型": "类别：&&</a>",
-          "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-content__desc col-pd clearfix&&</div>",
-          "分类": "电影$1#电视剧$2#动漫$30#综艺$29#动画电影$24#纪录片$22",
-          "分类url": "https://nbys.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html"
-        }
-      },
-      {
-        "key": "狐狸",
-        "name": "🎥｜狐狸",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://www.kuin.one/api.php/app/"
       },
       {
         "key": "花姐影院",
@@ -3120,37 +3071,6 @@
         }
       },
       {
-        "key": "飞飞",
-        "name": "🎥｜飞飞",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "影片年代": "<div class=\"module-info-tag\">&&</div>",
-          "影片地区": "圥忈制作",
-          "影片状态": "备注：&&</div>",
-          "影片类型": "module-info-tag\">&&立即播放",
-          "线路数组": "data-dropdown-value=&&</div>",
-          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-          "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-          "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
-        }
-      },
-      {
-        "key": "飞鱼影院",
-        "name": "🎥｜飞鱼",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "ext": {
-          "分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
-          "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-        },
-        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-      },
-      {
         "key": "原创",
         "name": "🎥｜原创",
         "type": 3,
@@ -3265,20 +3185,6 @@
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "searchable": 1,
         "quickSearch": 1
-      },
-      {
-        "key": "奥特影视",
-        "name": "🎥｜奥特",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "ext": {
-          "简介": "小林子为您剧情介绍:+<p>◎影片简介:</p>&&</div>",
-          "分类url": "https://auete.pro/{cateId}/{class}/index{catePg}.html[https://auete.pro/{cateId}/{class}/index.html]",
-          "筛选": "1",
-          "剧情": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp#惊悚片$jsp||香港剧$tvbgj#国产剧$neidi#台湾剧$taiju#欧美剧$oumei#日剧$riju#韩剧$hanju#网剧$wangju#泰剧$yataiju||大陆综艺$guozong#日韩综艺$hanzong#欧美综艺$meizong||国产动漫$guoman#日本动漫$riman#欧美动漫$meiman$动画$donghua||记录片$Jlp#经典片$Jdp#经典剧$Jdj#网大电影$wlp#国产老电影$laodianying",
-          "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita"
-        }
       },
       {
         "key": "爱看",
@@ -5093,8 +4999,22 @@
         "filterable": 1
       },
       {
+        "key": "奥特影视",
+        "name": "🎥｜奥特｜(失效)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "ext": {
+          "简介": "小林子为您剧情介绍:+<p>◎影片简介:</p>&&</div>",
+          "分类url": "https://auete.pro/{cateId}/{class}/index{catePg}.html[https://auete.pro/{cateId}/{class}/index.html]",
+          "筛选": "1",
+          "剧情": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp#惊悚片$jsp||香港剧$tvbgj#国产剧$neidi#台湾剧$taiju#欧美剧$oumei#日剧$riju#韩剧$hanju#网剧$wangju#泰剧$yataiju||大陆综艺$guozong#日韩综艺$hanzong#欧美综艺$meizong||国产动漫$guoman#日本动漫$riman#欧美动漫$meiman$动画$donghua||记录片$Jlp#经典片$Jdp#经典剧$Jdj#网大电影$wlp#国产老电影$laodianying",
+          "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita"
+        }
+      },
+      {
         "key": "素白白影视",
-        "name": "优质｜素白白",
+        "name": "优质｜素白白｜(失效)",
         "type": 3,
         "api": "csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
@@ -5112,6 +5032,26 @@
         "filterable": 1,
         "order_num": 0,
         "ext": "./drpy_js/素白白.js"
+      },
+      {
+        "key": "飞飞",
+        "name": "🎥｜飞飞｜(失效)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "影片年代": "<div class=\"module-info-tag\">&&</div>",
+          "影片地区": "圥忈制作",
+          "影片状态": "备注：&&</div>",
+          "影片类型": "module-info-tag\">&&立即播放",
+          "线路数组": "data-dropdown-value=&&</div>",
+          "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+          "分类url": "https://www.ffys.fun/vodshow/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类": "电影$20#剧集$21#动漫$22#综艺$23#记录片$24#爽剧$25"
+        }
       },
       {
         "key": "hipy_js_厂长资源",
