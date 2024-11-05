@@ -4236,8 +4236,7 @@
         "api": "http://api.paoyun.eu.org/zh/2241-2.php",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
         "searchable": 1,
-        "changeable": 0,
-        "ext": "1,2,3,4,5,6"
+        "changeable": 0
       },
       {
         "key": "开心直播点播",
