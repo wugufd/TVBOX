@@ -4257,13 +4257,17 @@
         "changeable": 0
       },
       {
-        "key": "直播转点播v2",
-        "name": "㊙︎｜直播转点播v2",
-        "type": 4,
-        "api": "http://api.paoyun.eu.org/zh/22418-1.php",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
-        "searchable": 1,
-        "changeable": 0
+        "key": "直播转点播1",
+        "name": "直播转点播",
+        "type": 3,
+        "searchable": 0,
+        "timeout": 60,
+        "api": "https://api.paoyun.eu.org/zq/cat/live2vod.js",
+        "style": {
+          "type": "list",
+          "ratio": 1.1
+        },
+        "ext": "https://api.paoyun.eu.org/zq/cat/feimaolive.json"
       },
       {
         "key": "超级影视",
