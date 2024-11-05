@@ -4257,12 +4257,13 @@
         "changeable": 0
       },
       {
-        "key": "开心直播点播",
-        "name": "㊙︎｜直播转点播[V2]",
-        "type": 3,
-        "api": "http://ttkx.live:55/lib/sdtv.js",
-        "ext": "http://ttkx.live:55/lib/kxzb1.txt",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fty.txt;md5;87d5916b7bb5c8acacac5490e802828e"
+        "key": "直播转点播v2",
+        "name": "㊙︎｜直播转点播v2",
+        "type": 4,
+        "api": "http://api.paoyun.eu.org/zh/22418-1.php",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
+        "searchable": 1,
+        "changeable": 0
       },
       {
         "key": "超级影视",
@@ -4971,7 +4972,7 @@
       {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
-      {"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/07061553.jar"},
+      {"key":"spider_IKan","name":"✨爱看(🐞)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/07061553.jar"},
       {"key":"ai","name":"🐨爱奇艺(官源)","type":3,"api":"csp_IQIYI","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","quickSearch":1,"searchable":1,"filterable":1},
       {"key":"teng","name":"🐧腾讯(官源)","type":3,"api":"csp_QQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"MGT","name":"🍋芒果(官源)","type":3,"api":"csp_Mgtv","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar","searchable":1,"quickSearch":1,"filterable":1},
