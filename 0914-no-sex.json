@@ -487,7 +487,7 @@
       {"key":"csp_XBiu99i影城CDN","name":"🇹🇼｜99i影城｜CDN(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://cdn.99itv.net/show/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#動畫片$20"}},
       {
         "key":"奇優影院",
-        "name":"🇹🇼｜奇优影院｜自建",
+        "name":"🇹🇼｜奇優影院",
         "type":3,
         "api":"csp_XBPQ",
         "searchable":1,
@@ -501,7 +501,7 @@
     },
       {
         "key":"大米星球",
-        "name":"🇹🇼｜大米星球｜自建",
+        "name":"🇹🇼｜大米星球",
         "type":3,
         "api":"csp_XBPQ",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
@@ -524,7 +524,7 @@
         },
       {
         "key": "91電影網",
-        "name": "🇹🇼｜九一電影網｜自建",
+        "name": "🇹🇼｜91電影",
         "type": 3,
         "api": "csp_XBPQ",
         "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
@@ -535,7 +535,7 @@
       },
       {
         "key": "meiyida",
-        "name": "🇹🇼｜美益達影视｜自建",
+        "name": "🇹🇼｜美益達影视",
         "type": 3,
         "api": "csp_XBPQ",
         "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
