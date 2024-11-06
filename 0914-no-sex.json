@@ -126,7 +126,7 @@
       },
       {
         "key": "php_bttwoo",
-        "name": "优质｜TwoBT｜T4",
+        "name": "优质｜TwoBT｜T4沐辰",
         "type": 4,
         "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
         "searchable": 1,
@@ -158,7 +158,7 @@
       },
       {
         "key": "T4-heimuer",
-        "name": "优质｜黑木耳(T4)",
+        "name": "优质｜黑木耳｜T4唐三",
         "type": 4,
         "api": "https://tang.hz.cz/power/hme?token=647c28ca",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
@@ -169,7 +169,7 @@
       },
       {
         "key": "T4-独播库",
-        "name": "优质｜独播库(T4)",
+        "name": "优质｜独播库｜T4唐三",
         "type": 4,
         "api": "https://tang.hz.cz/power/duboku?token=647c28ca",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
