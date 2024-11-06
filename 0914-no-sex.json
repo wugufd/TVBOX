@@ -161,16 +161,29 @@
         "name": "优质｜黑木耳(T4)",
         "type": 4,
         "api": "https://tang.hz.cz/power/hme?token=647c28ca",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "changeable": 0
       },
       {
+        "key": "T4-独播库",
+        "name": "优质｜独播库(T4)",
+        "type": 4,
+        "api": "https://tang.hz.cz/power/duboku?token=647c28ca",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 0
+    },
+      {
         "key": "T4-欧乐",
         "name": "优质｜欧乐｜T4唐三",
         "type": 4,
         "api": "https://tang.hz.cz/power/olelive?token=647c28ca",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -181,6 +194,7 @@
         "name": "优质｜安博｜T4唐三",
         "type": 4,
         "api": "https://tang.hz.cz/power/ub18?token=647c28ca",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4258,7 +4272,7 @@
         "changeable": 1,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/lf_live10_min-output.js",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/lf_live.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412"
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e"
       },
       {
         "key": "直播转点播",
@@ -4297,7 +4311,7 @@
         "name": "㊙︎｜YOUTUBE",
         "type": 4,
         "api": "https://api.paoyun.eu.org/yt/yt001.php",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "changeable": 1,
         "ext": "海贼王#最新歌曲#动漫#新闻#卡提诺#追剧#爆笑#喜剧#新闻#旅游#播放清单#财神爷我的歌单"
@@ -4307,7 +4321,7 @@
         "name": "㊙︎｜油管播放列表",
         "type": 4,
         "api": "https://api.paoyun.eu.org/ytlb.php",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "changeable": 1
       },
@@ -4372,7 +4386,7 @@
         "name": "🎖︎｜360",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/360影视[官].js"
       },
       {
@@ -4380,7 +4394,7 @@
         "name": "🎖︎｜i奇异",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -4392,7 +4406,7 @@
         "name": "🎖︎｜M果",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/百忙无果[官].js"
       },
       {
@@ -4400,7 +4414,7 @@
         "name": "🎖︎｜T讯",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/腾云驾雾[官].js"
       },
       {
@@ -4408,7 +4422,7 @@
         "name": "🎖︎｜S狗",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/菜狗[官].js"
       },
       {
@@ -4416,7 +4430,7 @@
         "name": "🎖︎｜U酷",
         "type": 3,
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/custom_spider.jar;md5;01d4838ef177cc92d0d3d94e9fe6734e",
         "searchable": 1,
         "quickSearch": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/优酷[官].js"
