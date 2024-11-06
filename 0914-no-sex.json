@@ -242,18 +242,9 @@
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/小宝影院[飞].js",
         "User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
       },
-      {
-        "key": "小宝影视",
-        "name": "优质｜小宝｜備用2",
-        "type": 1,
-        "api": "http://www.xiaobao168.com/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1
-      },
-      {"key":"csp_XBiu小宝影院XBYY","name":"优质｜小寶｜備用3","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xbyy.app/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
-      {"key":"csp_小宝影院","name":"优质｜小寶｜備用4","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
-      {"key":"csp_Xiaoh","name":"优质｜小寶｜備用5","type":3,"api":"csp_Xiaoh","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1,"filterable":1},
+      {"key":"csp_XBiu小宝影院XBYY","name":"优质｜小寶｜備用2","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xbyy.app/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
+      {"key":"csp_小宝影院","name":"优质｜小寶｜備用3","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
+      {"key":"csp_Xiaoh","name":"优质｜小寶｜備用4","type":3,"api":"csp_Xiaoh","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1,"filterable":1},
       {
         "key": "zj",
         "name": "优质｜8K影院",
@@ -824,6 +815,15 @@
         "filterable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/子子影视2.json",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5"
+      },
+      {
+        "key": "小宝影视",
+        "name": "🎥｜小宝影視",
+        "type": 1,
+        "api": "http://www.xiaobao168.com/api.php/provide/vod/",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1
       },
       {
         "key": "csp_XYQHiker_白嫖者联盟",
