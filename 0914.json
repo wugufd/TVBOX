@@ -4,6 +4,7 @@
     "lives":[
 			{"name":"RobYang｜優質","playerType":2,"url":"https://robyang.bsite.net/VodLive/lb8ffa","playerplayerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},	
 			{"name":"173線路｜優質","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
+			{"name":"QZ線路｜優質","playerType":2,"url":"https://json.doube.eu.org//live/tw/Sub.php","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},		
 			{"name":"香蕉線路｜優質","playerType":2,"url": "https://tv.iill.top/m3u/Gather","playerplayerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","pass":true},
             {"name":"Richou線路｜優質","playerType":2,"url":"http://rihou.cc:555/gggg.nzk/","playerplayerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
 			{"name":"Litv線路｜優質","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
