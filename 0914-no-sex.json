@@ -283,6 +283,17 @@
         }
       },
       {
+        "key": "hipy_js_素白白",
+        "name": "优质｜素白白",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/lib/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/白白.js"
+      },
+      {
         "key": "Lib",
         "name": "优质｜立播",
         "type": 3,
@@ -456,8 +467,22 @@
       {"key":"csp_XBiu唐人街影视","name":"❤️｜唐人街影视FILM(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+hl-col-xs-12 blurb\">&&</li>","分类url":"https://www.chinatownfilm.com/vodshow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuCN影院","name":"❤️｜CN影院","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://cnys.tv/vodshow-{cateId}-by-time-page-{catePg}-year-{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$97"}},
       {"key":"csp_XBiuCN影院COM","name":"❤️｜CN影院(備用)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"anthology wow fadeInUp animated top20\">&&</span>","简介":"+top26\">&&</div>","分类url":"https://www.cnysvod.com/vodshow-{cateId}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$97"}},   
-      {"key":"csp_XBiuNIVODvip","name":"❤️｜泥視頻(VIP)","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://www.nivod.vip/k/{cateId}--time------{cateIPg}---{year}/","分类": "電視劇$2#電影$1#動漫$4#動畫片$26#綜藝$3#紀錄片$21#直播$49"}},
-      {"key":"csp_XBiuNBYY","name":"❤️｜泥視頻(CC)","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://www.nbyy.cc/filter.html?channel={cateId}&year={year}","分类": "電視劇$tv#電影$movie#動漫$anime#綜藝$show"}},
+      
+      {
+        "key":"csp_XBiuNIVODvip",
+        "name":"❤️｜泥視頻(VIP)",
+        "type":3,
+        "api":"csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+              "简介":"简介：&&</div>",
+              "分类url":"https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
+              "分类": "電視劇$2#電影$1#動漫$4#動畫片$26#綜藝$3#紀錄片$21#直播$49"
+              }
+      },
       {
         "key":"csp_XBiuNIVOD1",
         "name":"❤️｜泥視頻(粉絲復活)",
@@ -487,7 +512,7 @@
       },
       {"key":"csp_XBiu歐樂影院ORG","name":"❤️｜歐樂","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"content_desc context clearfix\">&&</span>","分类url":"https://www.oulevod.org/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#體育$59#短劇$53"}},
       {"key":"csp_XBiuYLSP","name":"❤️｜永樂","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://ylsp.tv/vodshow/{cateId}--time------{cateIPg}---{year}/","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#動畫片$26"}},
-      {"key":"csp_XBiu快看影視PRO","name":"快❤️｜看影視PRO(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.kkvod.org/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
+      {"key":"csp_XBiu快看影視PRO","name":"❤️｜快看影視PRO(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.kkvod.org/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiu神馬影院","name":"❤️｜神馬影院","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"module-info-introduction-content\">&&</div>","分类url":"https://www.smyy93.com/vodshow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#紀錄片$5#動畫片$34"}},
       {"key":"csp_XBiuSMYYvip","name":"❤️｜神馬電影網","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"player ckp gdt bf-w\" >&&</ul>","简介":"sqjj_a\">&&</span>","分类url":"https://v.shenmayy.vip/shenmashow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#紀錄片$34#動畫片$32"}},
       {"key":"csp_XBiu多瑙影視海外","name":"❤️｜多瑙影視(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://t.duonaovod.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$60"}},
@@ -500,12 +525,12 @@
         "key": "hipy_js_荐片[优]",
         "name": "🧡｜荐片資源",
         "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 0,
-        "ext": "./drpy_js/荐片[优].js"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/荐片[优].js"
       },
       {
         "key": "界界影视",
@@ -5193,17 +5218,6 @@
         "searchable": 1,
         "changeable": 1,
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/subaibai.json"
-      },
-      {
-        "key": "hipy_js_素白白",
-        "name": "素白白(drpy_t3)",
-        "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "order_num": 0,
-        "ext": "./drpy_js/素白白.js"
       },
       {
         "key": "飞飞",
