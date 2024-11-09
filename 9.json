@@ -525,11 +525,11 @@
         "name":"❤️｜泥巴影院",
         "type":3,
         "api":"csp_XBPQ",
+        "ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/泥巴影院.json",
         "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar",
         "searchable":1,
         "quickSearch":1,
-        "filterable":1,
-        "ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/泥巴影院.json"
+        "filterable":1
       },
       {"key":"艾旦资源","name":"❤️｜艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1},
       {
