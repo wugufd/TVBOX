@@ -1,0 +1,1095 @@
+大陆,#genre#
+CCTV1综合超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476879.m3u8
+CCTV2财经高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476881.m3u8
+CCTV3综艺超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476882.m3u8
+CCTV4中文国际高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476884.m3u8
+CCTV5体育超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476886.m3u8
+CCTV5+体育赛事超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476888.m3u8
+cctv5+体育赛事高清(备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476889.m3u8
+CCTV6电影高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476890.m3u8
+CCTV7国防军事高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476891.m3u8
+CCTV8电视剧高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476892.m3u8
+CCTV-9纪录超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476893.m3u8
+CCTV10 HD科教超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476895.m3u8
+CCTV11戏曲高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476897.m3u8
+CCTV12社会与法高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476898.m3u8
+CCTV13新闻高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476899.m3u8
+CCTV13新闻（备）,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV14少儿高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476900.m3u8
+CCTV15音乐高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476901.m3u8
+CCTV-16奥林匹克,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476902.m3u8
+CCTV 4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476942.m3u8
+卫视,#genre#
+东南卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/480057.m3u8
+湖南卫视超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476903.m3u8
+江苏卫视超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476905.m3u8
+东方卫视超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476907.m3u8
+浙江卫视超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476909.m3u8
+北京卫视超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476911.m3u8
+深圳卫视高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476913.m3u8
+广东卫视高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476914.m3u8
+广东珠江,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476221.m3u8
+岭南戏曲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476950.m3u8
+广东体育高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476954.m3u8
+广东体育超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476953.m3u8
+广东体育4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476951.m3u8
+四川卫视高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476917.m3u8
+湖北卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476198.m3u8
+河北卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476920.m3u8
+天津卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476919.m3u8
+大湾区卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476989.m3u8
+重庆卫视高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476918.m3u8
+青田电视台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476195.m3u8
+
+香港,#genre#
+MyTV SUPER,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477554.m3u8
+TVB 翡翠台超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476929.m3u8
+TVB 翡翠台4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476927.m3u8
+TVB 翡翠台高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476930.m3u8
+TVB 明珠台超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476935.m3u8
+TVB 明珠台高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476936.m3u8
+無線新聞台高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476926.m3u8
+无线新闻台超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476925.m3u8
+HOY 资讯台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476957.m3u8
+香港國際財經台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476956.m3u8
+viu TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477538.m3u8
+ViuTV HD+,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476937.m3u8
+无线财经·资讯台4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476921.m3u8
+无线财经·资讯台高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476924.m3u8
+無線財經·資訊台超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476923.m3u8
+TVB J2 4K ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476931.m3u8
+TVB J2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476933.m3u8
+TVB J2高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476934.m3u8
+Now新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477070.m3u8
+now新闻,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477070.m3u8
+NOW 財經台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477534.m3u8
+鳳凰香港台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476963.m3u8
+鳳凰中文超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476962.m3u8
+凤凰資訊超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476961.m3u8
+凤凰卫视（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/570838.m3u8
+HKC娛樂,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476213.m3u8
+18台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477555.m3u8
+澳门莲花,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476223.m3u8
+ViuTV6 HD+,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476939.m3u8
+TVB粤语片,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476225.m3u8
+TVB功夫台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476226.m3u8
+tvb功夫台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477551.m3u8
+TVB1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476199.m3u8
+新時代2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476215.m3u8
+新时代温哥华,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477610.m3u8
+新时代多倫多,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477609.m3u8
+TVB星河,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476200.m3u8
+TVB经典,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476210.m3u8
+TVB 戏曲台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477553.m3u8
+TVB 亚洲综艺台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477547.m3u8
+TVB 亚洲剧台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477549.m3u8
+TVB 华语台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477550.m3u8
+蓮花衛視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476988.m3u8
+美亚高清电影台(香港),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476212.m3u8
+美亞電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477078.m3u8
+星河频道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476993.m3u8
+天映頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.m3u8
+MYTV SUPER ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477551.m3u8
+华纳WBTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476977.m3u8
+尼克动画高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477025.m3u8
+hoy资讯台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481867.m3u8
+tvb综合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479226.m3u8
+
+台湾,#genre#
+
+民視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488996.m3u8
+民視（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476986.m3u8
+人间卫视,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488957.m3u8
+台視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488998.m3u8
+台視（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476982.m3u8
+台視（备2）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/507781.m3u8
+大愛電視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477082.m3u8
+中視 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476983.m3u8
+中視（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488999.m3u8
+霹雳台湾,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488941.m3u8
+華視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476985.m3u8
+華視（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488997.m3u8
+公視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476984.m3u8
+公視（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489000.m3u8
+幸福空間居家台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488986.m3u8
+好消息,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476227.m3u8
+原住民頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476228.m3u8
+客家電視台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476229.m3u8
+探索頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476277.m3u8
+tlc旅遊台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488939.m3u8
+動物星球,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477088.m3u8
+CN卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.m3u8
+迪士尼1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495450.m3u8
+Momo親子台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477060.m3u8
+momo亲子台（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/508248.m3u8
+東森幼幼,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476246.m3u8
+緯來綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477086.m3u8
+八大第1台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477071.m3u8
+八大第一台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489004.m3u8
+八大綜合台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477069.m3u8
+八大綜合台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489003.m3u8
+三立台湾台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477050.m3u8
+三立台湾台（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481765.m3u8
+三立台湾（备2）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/503982.m3u8
+三立都會台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476232.m3u8
+三立都會台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489023.m3u8
+三立都会 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518334.m3u8
+東森綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476987.m3u8
+東森超視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476234.m3u8
+東森購物2台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488988.m3u8
+momo购物2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495449.m3u8
+中天綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477084.m3u8
+中天综合（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/620132.m3u8
+中天娱乐 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/518696.m3u8
+中天娛樂,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476996.m3u8
+東森戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476994.m3u8
+東森戲劇台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489002.m3u8
+八大戏剧台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488934.m3u8
+TVBS歡樂台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477068.m3u8
+緯來戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477067.m3u8
+JET綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476239.m3u8
+東森購物3台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488989.m3u8
+東森購物1台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488987.m3u8
+壹電視新聞台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488993.m3u8
+壹新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477087.m3u8
+年代新聞高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477030.m3u8
+東森新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476998.m3u8
+東森新闻(备),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479200.m3u8
+東森新聞（備）,https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+中天新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477695.m3u8
+中天新闻 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479209.m3u8
+中天新闻（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489006.m3u8
+中天新闻 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/519582.m3u8
+中天新闻（備）,https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
+民視新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477080.m3u8
+民视新闻 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/538797.m3u8
+三立新闻 news,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/492922.m3u8
+tvbs新闻(CES),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479199.m3u8
+tvbs新闻,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/494223.m3u8
+TVBS綜合高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477042.m3u8
+tvbs 综合 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/521130.m3u8
+東森財經新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477062.m3u8
+非凡新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477083.m3u8
+東森財經（備）,https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
+viva购物台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495452.m3u8
+东森购物5台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493136.m3u8
+東森電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476995.m3u8
+緯來電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477063.m3u8
+龍祥電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476979.m3u8
+HBO HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476278.m3u8
+HBO 高清 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476974.m3u8
+東森洋片,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476997.m3u8
+東森洋片台（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489001.m3u8
+AXN壹湾,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476296.m3u8
+好萊塢電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476281.m3u8
+CineMax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476283.m3u8
+緯來育樂,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477081.m3u8
+緯來體育,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.m3u8
+ELEVEN SPORm3u8 1 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476990.m3u8
+ELEVEN SPORm3u8 2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476991.m3u8
+緯來日本,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477039.m3u8
+國興衛視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476971.m3u8
+z频道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525785.m3u8
+Animax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477583.m3u8
+八大娛樂,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477064.m3u8
+三立財經新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488992.m3u8
+非凡商业台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488936.m3u8
+NHK,https://bmcc.nhkworld.jp/live/index_1M.m3u8
+華藏衛星電視台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495256.m3u8
+信大電視台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495258.m3u8
+正德电视频道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495464.m3u8
+台湾番薯電視台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495096.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+民視第一台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476243.m3u8
+民視台湾,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476244.m3u8
+中視菁采,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476260.m3u8
+中視新聞台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476269.m3u8
+台視新聞台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476268.m3u8
+台視新聞（備）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/495824.m3u8
+台視新聞（備）,https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+台視新闻 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/529891.m3u8
+台視財經,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476271.m3u8
+台視綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476261.m3u8
+達文西頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493134.m3u8
+探索亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476978.m3u8
+discovery 探索科学（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489008.m3u8
+BBC地球高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.m3u8
+探索科學,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476981.m3u8
+緯來精采,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476286.m3u8
+華納電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476301.m3u8
+寰宇新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476270.m3u8
+亞洲旅遊,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476274.m3u8
+美食星球,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476263.m3u8
+HGTV居家樂活,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476328.m3u8
+博斯運動,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477034.m3u8
+AMC HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477058.m3u8
+HBO 强档钜献,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.m3u8
+HBO family,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476973.m3u8
+博斯高球1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477089.m3u8
+博斯高球2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477073.m3u8
+博斯魅力,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477598.m3u8
+博斯網球,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477602.m3u8
+博斯運動 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477029.m3u8
+博斯無限,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477603.m3u8
+大爱二台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493133.m3u8
+公视三台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493131.m3u8
+彭博财经台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493132.m3u8
+博斯無限 Ⅱ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477604.m3u8
+龍華洋片,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477076.m3u8
+龍華日韓,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476231.m3u8
+龍華日韓 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483360.m3u8
+龍華經典,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476294.m3u8
+龍華電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476300.m3u8
+Hollywood,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477065.m3u8
+龍華戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476293.m3u8
+KLT靖天國際,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476254.m3u8
+靖天電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476290.m3u8
+靖天電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477061.m3u8
+靖天戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476302.m3u8
+靖天卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476249.m3u8
+靖天日本,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476256.m3u8
+靖天歡樂台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476255.m3u8
+靖天欢乐,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476253.m3u8
+靖天映畫,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476284.m3u8
+靖天資訊台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476258.m3u8
+靖天綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476259.m3u8
+愛爾達影劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476282.m3u8
+ELTA體育1高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477037.m3u8
+ELTA 體育 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476267.m3u8
+愛爾達綜合高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477041.m3u8
+ELTA体育2台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488983.m3u8
+ELTA 體育 3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483407.m3u8
+elta 体育3 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587744.m3u8
+AE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476662.m3u8
+壹綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476230.m3u8
+搜索亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476238.m3u8
+靖洋卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476248.m3u8
+Baby TV(台湾),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476250.m3u8
+搜索EVE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476251.m3u8
+ELTA綜合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476262.m3u8
+鏡新聞news,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476272.m3u8
+EYE 旅游,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476276.m3u8
+Baby TV HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477721.m3u8
+靖洋卡通nice bingo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481784.m3u8
+靖天育樂台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481789.m3u8
+gtv八大精彩台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477035.m3u8
+AXN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477730.m3u8
+AXN 亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476299.m3u8
+靖洋戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476285.m3u8
+尼克动画高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477025.m3u8
+華視新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476266.m3u8
+寰宇财经台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488994.m3u8
+公視戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476298.m3u8
+公视台语,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476235.m3u8
+中視經典,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476362.m3u8
+民視綜藝,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476242.m3u8
+民视旅遊,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476240.m3u8
+東森亞洲衛視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476264.m3u8
+momo綜合台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488940.m3u8
+龍祥時代,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476295.m3u8
+三立國際,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476273.m3u8
+三立戲劇台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476288.m3u8
+智林體育台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488984.m3u8
+壹電視電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476280.m3u8
+TVBS精彩,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477075.m3u8
+中天亞洲台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476241.m3u8
+天映頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.m3u8
+三立live,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479198.m3u8
+探索世界,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476976.m3u8
+CinemaWorld,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477033.m3u8
+EYE TV戲劇台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476287.m3u8
+龙华动画,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493135.m3u8
+卡通頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477066.m3u8
+视纳华仁纪实台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/493137.m3u8
+历史频道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525779.m3u8
+华艺中文,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/509141.m3u8
+新马,#genre#
+Channel 5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476325.m3u8
+Channel 5 HD（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/508695.m3u8
+Channel 8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477032.m3u8
+Channel 8 HD（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/508694.m3u8
+Channel U,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476327.m3u8
+HUB都會,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476326.m3u8
+Suria,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476316.m3u8
+Vasantham,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476319.m3u8
+EYE 旅游,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476276.m3u8
+hub vv drama 娱家,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/624975.m3u8
+hubpremier1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487013.m3u8
+hubpremier2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487014.m3u8
+hubpremier3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487015.m3u8
+hubpremier4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487016.m3u8
+hubpremier5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487017.m3u8
+HUB sporm3u8 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/632055.m3u8
+hubsporm3u81,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486293.m3u8
+hubsporm3u82,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486325.m3u8
+hubsporm3u83,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486326.m3u8
+hubsporm3u84,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486327.m3u8
+hubsporm3u85,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486328.m3u8
+TVN,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477799.m3u8
+SpoTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.m3u8
+one(malay),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487008.m3u8
+TVB星河,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476200.m3u8
+SONY PIX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476595.m3u8
+tvn(eng sub),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487011.m3u8
+astro ria,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605063.m3u8
+Ria（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489226.m3u8
+astroSensasi,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/511422.m3u8
+astrosensasi（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/492033.m3u8
+TV1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476317.m3u8
+TV2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476320.m3u8
+TV3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476324.m3u8
+tv3 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/525146.m3u8
+astro prima,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605095.m3u8
+alhijrah,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605046.m3u8
+Alhijrah（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477816.m3u8
+NTV7,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476323.m3u8
+8TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476322.m3u8
+8tv （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/584939.m3u8
+TV9,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476321.m3u8
+iQIYI HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477808.m3u8
+TVB经典,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476210.m3u8
+astro aec,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605049.m3u8
+AEC（2）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/507773.m3u8
+CCM,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477801.m3u8
+tvbs新闻,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/494223.m3u8
+华丽台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477797.m3u8
+欢喜台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477796.m3u8
+欢喜台 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/586391.m3u8
+CCTV4中文国际高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476884.m3u8
+one,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605078.m3u8
+Astro AWANI,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476315.m3u8
+Nat Geo wild,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476642.m3u8
+Axn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476871.m3u8
+KIX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476312.m3u8
+Nbc Golf,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476655.m3u8
+Him3u8 Movies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477809.m3u8
+astro Arena,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476309.m3u8
+TVB星河,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476200.m3u8
+TVB J2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476933.m3u8
+星河频道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476993.m3u8
+Channel 8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477032.m3u8
+TVB 亚洲综艺台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477547.m3u8
+TVB 亚洲剧台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477549.m3u8
+TVB 华语台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477550.m3u8
+TVB 戏曲台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477553.m3u8
+MUTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477552.m3u8
+HBO Family,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476622.m3u8
+卡通頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477066.m3u8
+bbc earth(my),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605099.m3u8
+BBC地球高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.m3u8
+動物星球,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477088.m3u8
+CNA HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476307.m3u8
+天映頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.m3u8
+BNC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476311.m3u8
+astro Cricket,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476314.m3u8
+Channel 5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476325.m3u8
+Channel U,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476327.m3u8
+HGTV居家樂活,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476328.m3u8
+bbc lifestyle,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605073.m3u8
+BBC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476671.m3u8
+AFC HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477787.m3u8
+AOD 350,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477788.m3u8
+AOD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477789.m3u8
+astro aod 352,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605090.m3u8
+AOD 352（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477790.m3u8
+astro aod 354,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605089.m3u8
+astro sporm3u81,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605091.m3u8
+Astro Sp1（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477791.m3u8
+astro sporm3u82,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605092.m3u8
+Astro Sp2（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477792.m3u8
+astro sp2 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587842.m3u8
+astro sporm3u83,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605093.m3u8
+Astro Sp3（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477793.m3u8
+astro sporm3u84,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605094.m3u8
+Astro Sp4（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477794.m3u8
+Astro Sp4 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587837.m3u8
+TVN,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477799.m3u8
+astro quanjia ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605062.m3u8
+全佳（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485221.m3u8
+ADITHYA,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477804.m3u8
+beIN SPORm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477807.m3u8
+BLOOMBERG TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477810.m3u8
+astro ria,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605063.m3u8
+Ria（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489226.m3u8
+Cinema World,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477817.m3u8
+CINEMAX HD01,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477811.m3u8
+ABC NENS LIVE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476618.m3u8
+aniplus hd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477806.m3u8
+astro Sp5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477795.m3u8
+HUB都會,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476326.m3u8
+astro warna,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605065.m3u8
+SpoTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.m3u8
+SPOTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477535.m3u8
+SPOTV2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477565.m3u8
+cartoon network,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605053.m3u8
+Cartoon network （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486108.m3u8
+astro ceria,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605097.m3u8
+astro arena2 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605059.m3u8
+arena2（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489223.m3u8
+kbs world,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605077.m3u8
+nickeldeon,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605054.m3u8
+nickelodeon,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605052.m3u8
+Nickelodeon （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486109.m3u8
+okey tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605051.m3u8
+okey （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486107.m3u8
+okey（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/497694.m3u8
+tvn movie,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605080.m3u8
+wwe 摔角,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605056.m3u8
+wwe（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/507777.m3u8
+astro oasis  ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605045.m3u8
+Astro Oasis （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486102.m3u8
+astro citra,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605064.m3u8
+Astro Citra（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485226.m3u8
+astro rania,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605043.m3u8
+Astro Rania（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485225.m3u8
+astro aura,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605044.m3u8
+Astro Aura HD（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485254.m3u8
+Al-hijrah ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486103.m3u8
+tvs,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605047.m3u8
+TVS（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486104.m3u8
+awesometv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605048.m3u8
+Awesome tv ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486106.m3u8
+tutortv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605050.m3u8
+Tutortv smk ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485268.m3u8
+golf channel,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605075.m3u8
+Golf channel,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487046.m3u8
+warnertv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605055.m3u8
+Warnertv ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/485270.m3u8
+tvb magic,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605058.m3u8
+Tvbmagic,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487044.m3u8
+astro arena bola,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605060.m3u8
+arenabola1（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489851.m3u8
+astro arena bola2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605061.m3u8
+arenabola2（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489808.m3u8
+astroSensasi,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/511422.m3u8
+astrosensasi（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/492033.m3u8
+CNBC HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477644.m3u8
+vellithiral,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605068.m3u8
+ta daa,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605096.m3u8
+nhk world,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605076.m3u8
+discovery channel(my),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605100.m3u8
+discovery asia,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605084.m3u8
+cbeebies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605088.m3u8
+moonbug,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605087.m3u8
+nick jr,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605086.m3u8
+dreamwork,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605085.m3u8
+cgtn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605083.m3u8
+showcase movies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605082.m3u8
+boo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605081.m3u8
+k-plus,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605079.m3u8
+mtv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605074.m3u8
+dmax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605072.m3u8
+crime investigation,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605071.m3u8
+sun music,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605069.m3u8
+vaanavil,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605067.m3u8
+color hindi,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605066.m3u8
+astro premier,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605057.m3u8
+premiersporm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605098.m3u8
+zee tamil,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/605070.m3u8
+eurosport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481192.m3u8
+ABC NENS LIVE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476618.m3u8
+eurosport 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481193.m3u8
+SinoVision,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476617.m3u8
+FOX HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477723.m3u8
+HBO East,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476633.m3u8
+HBO Family,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476622.m3u8
+ABC NEWS HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477692.m3u8
+Fox news,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476620.m3u8
+NBC TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476619.m3u8
+CineMax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476283.m3u8
+FOX Business,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476621.m3u8
+FOX SPORm3u82 CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477700.m3u8
+HBO,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477731.m3u8
+HBO EXTREME HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477737.m3u8
+HBO FAMILY HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477727.m3u8
+HBO Him3u8 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.m3u8
+HBO MUNDI HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477735.m3u8
+HBO PLUS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477733.m3u8
+HBO POP HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477734.m3u8
+HBO SIGNATURE  HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477736.m3u8
+HBO Signature,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476634.m3u8
+新时代多倫多,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477609.m3u8
+新时代温哥华,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477610.m3u8
+
+美国,#genre#
+HBO2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477732.m3u8
+SpoTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.m3u8
+cnn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488932.m3u8
+Travel Channel ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476636.m3u8
+Cooking,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476637.m3u8
+COOKING CHANNEL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477639.m3u8
+Bloomberg,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476638.m3u8
+CINEMAX EAST ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477013.m3u8
+CINEMAX HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477739.m3u8
+Nat Geo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476641.m3u8
+TNT Hd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477751.m3u8
+BRAVO TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477651.m3u8
+Fight Network,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476646.m3u8
+Diy Network,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476647.m3u8
+Discovery,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476648.m3u8
+Discovery HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477746.m3u8
+Discovery HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477713.m3u8
+HISTORY USA,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477648.m3u8
+HISTORY HD CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477710.m3u8
+World fishing,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476649.m3u8
+Vh1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476650.m3u8
+TLC DISCOVERY,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477726.m3u8
+Nhl Net,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476651.m3u8
+Hallmark,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476652.m3u8
+HALLMARK DRAMA,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477633.m3u8
+HALLMARK MOVIES,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477634.m3u8
+HALLMARK WEST HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477637.m3u8
+E!,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477697.m3u8
+E! HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477626.m3u8
+SYFY HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477629.m3u8
+Hgtv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476654.m3u8
+Nbc Golf,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476655.m3u8
+Law And  Crime,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476656.m3u8
+MSNBC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477645.m3u8
+Tvg,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476657.m3u8
+MTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476659.m3u8
+MTV HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477663.m3u8
+Fx,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476660.m3u8
+CNBC HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477644.m3u8
+Animal,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476661.m3u8
+Investigation Discovery (ID),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477741.m3u8
+Lifetime Movie Network,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476666.m3u8
+Showtime,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476667.m3u8
+Showtime HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477605.m3u8
+Starz,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476668.m3u8
+USA HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477628.m3u8
+Usa Work,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476669.m3u8
+NATIONAL GEOGRAPHIC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477085.m3u8
+Nat Geo wild,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476642.m3u8
+ESPN NEWS ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477004.m3u8
+ESPN NEWS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477653.m3u8
+ESPN SEC NETWORK HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477654.m3u8
+CH5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476718.m3u8
+FRANCE 24,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477693.m3u8
+A&E HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477753.m3u8
+A3S SERIES HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477724.m3u8
+Animal planet,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477749.m3u8
+AZTECA 1 HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477706.m3u8
+AZTECA 7 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477705.m3u8
+BEIN_SPORm3u81_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477611.m3u8
+BEIN_SPORm3u82_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477612.m3u8
+BEIN_SPORm3u83_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477613.m3u8
+BEIN_SPORm3u84_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477614.m3u8
+BEIN_SPORm3u85_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477615.m3u8
+BEIN_SPORm3u86_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477616.m3u8
+BEIN_SPORm3u87_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477617.m3u8
+Cartoonito HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477722.m3u8
+CINECANAL CENTRAL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477715.m3u8
+CLARO SPORm3u8 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477665.m3u8
+Comedia central,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477744.m3u8
+Cp24,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477607.m3u8
+Discovery Kids Hd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477745.m3u8
+Discovery Theater,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477747.m3u8
+Discovery Turbo HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477750.m3u8
+Discovery World,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477742.m3u8
+DISNEY CHANNEL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477729.m3u8
+DISNEY JUNIOR,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477719.m3u8
+ESPN 3 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477740.m3u8
+ESPN 2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477661.m3u8
+ESPN 2 HD US,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477631.m3u8
+ESPN DEPORTES HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477632.m3u8
+ESPN EXTRA CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477711.m3u8
+ESPN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477660.m3u8
+ESPN HD US,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477636.m3u8
+ESPN U HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477655.m3u8
+ESPN3 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477740.m3u8
+ESTRELLAS  HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477701.m3u8
+Freeform,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476663.m3u8
+FX CENTRAL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477712.m3u8
+Gameshow,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476664.m3u8
+Hola Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477743.m3u8
+IMAGEN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477703.m3u8
+Invesyigation Discovery,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476665.m3u8
+Ksat12,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476639.m3u8
+LIFFE TIME,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477649.m3u8
+LMM HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477650.m3u8
+MC HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477725.m3u8
+MOREMAX ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477015.m3u8
+MTV LIVE HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477664.m3u8
+Nba,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476673.m3u8
+NETGEO,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477717.m3u8
+NICK 2 CENTRAL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477714.m3u8
+OXYGEN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477630.m3u8
+PARAMOINT CHANNEL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477728.m3u8
+People tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476725.m3u8
+SONY HD CENTRA,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477708.m3u8
+SPACE HD CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477709.m3u8
+Studio Universal,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477718.m3u8
+Treehouse,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477606.m3u8
+m3u8n1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477599.m3u8
+UNIVERSAL CHANEL HD CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477707.m3u8
+WB HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477752.m3u8
+Cbc Toronto,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476674.m3u8
+Ctv Toronto,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476675.m3u8
+Global Ontario,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476676.m3u8
+City Toronto,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476677.m3u8
+Cbc Vancouver,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476678.m3u8
+Ctv Vancouver,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476679.m3u8
+Global Bc,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476680.m3u8
+Global Quebec,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476685.m3u8
+City Vancouver,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476681.m3u8
+Yes Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476682.m3u8
+Cbc Montreal,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476683.m3u8
+Ctv Montreal,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476684.m3u8
+KIX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476312.m3u8
+城市電視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477601.m3u8
+城市电视 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/588666.m3u8
+golf channel hd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/499263.m3u8
+Channel A,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476564.m3u8
+FTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476559.m3u8
+Inet TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476556.m3u8
+JTBC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477561.m3u8
+JTBC GOLF,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477564.m3u8
+韩国,#genre#
+KBS 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477559.m3u8
+KBS Dram,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477557.m3u8
+KBS JOY,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477560.m3u8
+KBS 월드,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476563.m3u8
+KBS 코리아,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476560.m3u8
+KBSN스포츠,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476558.m3u8
+MBC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477569.m3u8
+MBC EVERY1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477558.m3u8
+MNET,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477532.m3u8
+OCN,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477567.m3u8
+OCN movies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477568.m3u8
+SBS,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477533.m3u8
+SBS PULS,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477562.m3u8
+SBS스포츠,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476557.m3u8
+SPOTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477535.m3u8
+SpoTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.m3u8
+SPOTV2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477565.m3u8
+Toonivers,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477563.m3u8
+YTN,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476561.m3u8
+주식회사 매일방송,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476562.m3u8
+Bbc Earth,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476670.m3u8
+Antv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476859.m3u8
+antv 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512198.m3u8
+Berita Satu,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476865.m3u8
+Cartoon Network,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476877.m3u8
+Celestial Classic Movie,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476878.m3u8
+Celestial Movies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476869.m3u8
+celestial movies 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512202.m3u8
+Cnn Indonesia,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476863.m3u8
+Elgourmet MX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477748.m3u8
+Fight Sporm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476875.m3u8
+Him3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476872.m3u8
+Indosiar,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476858.m3u8
+Inews,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476866.m3u8
+Kompas Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476862.m3u8
+Metro Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476861.m3u8
+Music Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476876.m3u8
+RCTI,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476849.m3u8
+Thrill,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476870.m3u8
+thrill备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512203.m3u8
+Trans Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476857.m3u8
+Tv One,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476860.m3u8
+tv one 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/512199.m3u8
+Tvri,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476864.m3u8
+SCTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476855.m3u8
+AXN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477730.m3u8
+paramount,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602243.m3u8
+mycinema,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602242.m3u8
+crimeinvestigation,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602241.m3u8
+galaxy,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602240.m3u8
+dreamworks,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602239.m3u8
+vision prime,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602235.m3u8
+useesport1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602233.m3u8
+useesport2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602234.m3u8
+tvn movie,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602232.m3u8
+spotv1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602227.m3u8
+spotv2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602231.m3u8
+sporm3u8tar4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602226.m3u8
+soccer,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602225.m3u8
+rock ent,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602223.m3u8
+rock action,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602219.m3u8
+nicklodeeon,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602218.m3u8
+fmn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602216.m3u8
+mnc sport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602214.m3u8
+mnc sport 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602215.m3u8
+him3u8 movie,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602212.m3u8
+history,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602207.m3u8
+hbo him3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602206.m3u8
+hbo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602196.m3u8
+cbeebies,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602194.m3u8
+bein sport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602192.m3u8
+animax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602191.m3u8
+rtv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602188.m3u8
+net,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602187.m3u8
+mnc,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602186.m3u8
+kompastv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602179.m3u8
+jaktv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602177.m3u8
+gtv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602175.m3u8
+ccm,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602170.m3u8
+nat geo wild,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602169.m3u8
+k plus lnd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602167.m3u8
+axn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/602163.m3u8
+Axn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476871.m3u8
+日本,#genre#
+日テレ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477596.m3u8
+ABC 朝日,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476578.m3u8
+Animax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477583.m3u8
+BS TV Tokyo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476576.m3u8
+BS-TBS,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476572.m3u8
+BS日本映画専门チャンネル,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477574.m3u8
+BS朝日,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476571.m3u8
+Fuji TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476579.m3u8
+Gaora Sporm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476615.m3u8
+NHK BS1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476574.m3u8
+NHK 综合,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476573.m3u8
+NTV HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477768.m3u8
+TBS,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476658.m3u8
+TBS-gx,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477585.m3u8
+TOKYO MX1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476575.m3u8
+テレビ东京,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477572.m3u8
+テレビ朝日,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477580.m3u8
+関西テレビ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477597.m3u8
+テレ朝チャンネル２,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477579.m3u8
+フジテレビ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477576.m3u8
+映画・チャンネルNECO,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477587.m3u8
+每日放送,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476569.m3u8
+ＭＢＳ毎日放送,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477588.m3u8
+ＮＨＫ総合・东京,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477582.m3u8
+ＮＨＫＢＳ１,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477578.m3u8
+ＷＯＷＯＷシネマ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477584.m3u8
+ＷＯＷＯＷプライム,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477577.m3u8
+ＷＯＷＯＷライブ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477586.m3u8
+j sport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562220.m3u8
+j sport 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562221.m3u8
+j sport 3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562222.m3u8
+j sport 4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562223.m3u8
+ファミリー劇場,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591525.m3u8
+日本テレビ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591515.m3u8
+bsアニマックス animax ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591505.m3u8
+bsスカパー,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591506.m3u8
+bsフジ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591507.m3u8
+nhk bsプレミアム,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591508.m3u8
+ゴルフネットワーク,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591521.m3u8
+mtv hd （jp）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591510.m3u8
+ディスカバリーチャンネル,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591522.m3u8
+bs日テレ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591509.m3u8
+テレ朝チャンネル1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591524.m3u8
+musicjapan tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591513.m3u8
+nhk world,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591514.m3u8
+スター・チャンネル1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591516.m3u8
+スター・チャンネル2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591517.m3u8
+スター・チャンネル3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591518.m3u8
+日テレnews24(jp),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591529.m3u8
+music on!,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591511.m3u8
+wowowプラス,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591519.m3u8
+キッズステーション,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591520.m3u8
+テレビ大阪 tvo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591523.m3u8
+テレビ東京,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591535.m3u8
+nhk e テレ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591534.m3u8
+nhk-g,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591533.m3u8
+海外アニメ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591532.m3u8
+ディズニー・チャンネル,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591531.m3u8
+時代劇専門,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591530.m3u8
+旅チャンネル,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591528.m3u8
+フジテレビ one,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591527.m3u8
+フジテレビ two,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/591526.m3u8
+越南,#genre#
+VTV 9 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477766.m3u8
+TN1 HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477769.m3u8
+VTV 5 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477770.m3u8
+VTV 6,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477772.m3u8
+VTV 3 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477778.m3u8
+htv the thao,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483567.m3u8
+vtv8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483566.m3u8
+vtv7,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483565.m3u8
+htv9,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483564.m3u8
+vtv2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483563.m3u8
+vtv4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483562.m3u8
+HTV1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476566.m3u8
+HTV7 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476565.m3u8
+Adithya TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476591.m3u8
+AND FLIX HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476590.m3u8
+And pictures ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476612.m3u8
+Animal Planet,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476589.m3u8
+Asianet HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476588.m3u8
+Colors HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476582.m3u8
+Colors Tamil,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476584.m3u8
+INDIA TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476614.m3u8
+JAYA TV HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476587.m3u8
+KTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476585.m3u8
+NATGEO HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476596.m3u8
+NATGEOWILD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476597.m3u8
+Ndtv india sd ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476611.m3u8
+SONY HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476592.m3u8
+SONY PIX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476595.m3u8
+SONY SAB HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476593.m3u8
+Sony Six ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476594.m3u8
+Star Bharat,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476599.m3u8
+Star Gold,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476600.m3u8
+Star Movies ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476605.m3u8
+STAR PLUS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476581.m3u8
+Star Sport 1 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476601.m3u8
+Star Sport 3 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476603.m3u8
+Star Sporm3u8 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476602.m3u8
+Star Um3u8av,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476598.m3u8
+STAR VIJAY HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477814.m3u8
+INDIA TV(备),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482133.m3u8
+Star Vijay,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476583.m3u8
+Star world,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476604.m3u8
+Sun Life,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476608.m3u8
+Sun News,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476606.m3u8
+Zee Action ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476610.m3u8
+Zee Business Sd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476613.m3u8
+Zee Haryana ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476607.m3u8
+Zee Tamil,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476586.m3u8
+Zee tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476609.m3u8
+suntv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481755.m3u8
+Amarin TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476710.m3u8
+TTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477760.m3u8
+GMM25,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476711.m3u8
+Mono29,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476712.m3u8
+Nation Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476713.m3u8
+One 31,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476714.m3u8
+JKN,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476716.m3u8
+CH 3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476717.m3u8
+CH 8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476719.m3u8
+K+NS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477773.m3u8
+CH5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476718.m3u8
+Gma News,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476727.m3u8
+Gma Life,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476728.m3u8
+Gma Pinoy,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476729.m3u8
+PBO,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476726.m3u8
+Gma 7,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476724.m3u8
+TV5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476723.m3u8
+Kapamilya,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476722.m3u8
+MYX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476721.m3u8
+Cinema One,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476720.m3u8
+People tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476725.m3u8
+电影,#genre#
+美亚高清电影台(香港),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476212.m3u8
+壹電視電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476280.m3u8
+AXN 亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476299.m3u8
+CineMax,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476283.m3u8
+好萊塢電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476281.m3u8
+靖洋戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476285.m3u8
+靖天映畫,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476284.m3u8
+龍華電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476300.m3u8
+龍華經典,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476294.m3u8
+龍華日韓,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476231.m3u8
+靖天電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476290.m3u8
+緯來精采,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476286.m3u8
+愛爾達影劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476282.m3u8
+EYE TV戲劇台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476287.m3u8
+HBO HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476278.m3u8
+AXN壹湾,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476296.m3u8
+TVB亚洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476224.m3u8
+TVB粤语片,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476225.m3u8
+TVB功夫台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476226.m3u8
+天映頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476310.m3u8
+龍祥時代,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476295.m3u8
+公視戲劇,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476298.m3u8
+華納電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476301.m3u8
+HBO East,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476633.m3u8
+HBO Signature,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476634.m3u8
+CCTV6电影高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476890.m3u8
+HBO Family,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476622.m3u8
+HBO 强档钜献,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.m3u8
+HBO family,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476973.m3u8
+東森電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476995.m3u8
+東森洋片,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476997.m3u8
+CinemaWorld,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477033.m3u8
+天映电影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477049.m3u8
+AMC HD ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477058.m3u8
+緯來電影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477063.m3u8
+美亞電影台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477078.m3u8
+HBO Him3u8 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476972.m3u8
+HBO FAMILY HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477727.m3u8
+HBO2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477732.m3u8
+HBO PLUS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477733.m3u8
+HBO POP HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477734.m3u8
+HBO MUNDI HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477735.m3u8
+HBO SIGNATURE  HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477736.m3u8
+HBO EXTREME HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477737.m3u8
+Flixmex,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482183.m3u8
+flixmex clasico,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482184.m3u8
+ESPN HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477660.m3u8
+体育,#genre#
+ELTA 體育 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476267.m3u8
+ELTA 體育 3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483407.m3u8
+緯來體育,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477026.m3u8
+Suria,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476316.m3u8
+SPOTV2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477565.m3u8
+Nba,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476673.m3u8
+Astro Sp1（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477791.m3u8
+Astro Sp2（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477792.m3u8
+astro sp2 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587842.m3u8
+Astro Sp3（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477793.m3u8
+Astro Sp4（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477794.m3u8
+Astro Sp4 （备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/587837.m3u8
+astro Sp5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477795.m3u8
+astro Cricket,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476314.m3u8
+Star Sporm3u8 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476602.m3u8
+Star Sport 1 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476601.m3u8
+Gaora Sporm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476615.m3u8
+Star Sport 3 ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476603.m3u8
+Nbc Golf,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476655.m3u8
+Fight Sporm3u8,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476875.m3u8
+CCTV5体育4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476885.m3u8
+CCTV5体育超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476886.m3u8
+CCTV5体育高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476887.m3u8
+CCTV5+体育赛事超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476888.m3u8
+广东体育4K,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476951.m3u8
+广东体育超清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476953.m3u8
+广东体育高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476954.m3u8
+ELEVEN SPORm3u8 1 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476990.m3u8
+ELEVEN SPORm3u8 2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476991.m3u8
+ESPN US ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476999.m3u8
+ESPN 2 US ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477000.m3u8
+ESPN-U US ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477001.m3u8
+ESPN NEWS ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477004.m3u8
+博斯運動,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477034.m3u8
+ELTA體育1高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477037.m3u8
+博斯高球2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477073.m3u8
+博斯高球1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477089.m3u8
+MUTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477552.m3u8
+SPOTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477535.m3u8
+m3u8n1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477599.m3u8
+BEIN_SPORm3u81_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477611.m3u8
+BEIN_SPORm3u82_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477612.m3u8
+BEIN_SPORm3u83_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477613.m3u8
+BEIN_SPORm3u84_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477614.m3u8
+BEIN_SPORm3u85_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477615.m3u8
+BEIN_SPORm3u86_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477616.m3u8
+BEIN_SPORm3u87_HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477617.m3u8
+ESPN 2 HD US,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477631.m3u8
+ESPN DEPORTES HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477632.m3u8
+ESPN HD US,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477636.m3u8
+ESPN NEWS HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477653.m3u8
+ESPN SEC NETWORK HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477654.m3u8
+ESPN U HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477655.m3u8
+ESPN EXTRA HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477658.m3u8
+ESPN 2 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477661.m3u8
+ESPN3 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477740.m3u8
+CLARO SPORm3u8 HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477665.m3u8
+FOX SPORm3u8 HD CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477698.m3u8
+FOX SPORm3u82 CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477700.m3u8
+ESPN EXTRA CENTRAL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477711.m3u8
+eurosport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481192.m3u8
+eurosport 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481193.m3u8
+SpoTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482155.m3u8
+HUB sporm3u8 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/632055.m3u8
+Red Bull TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/482185.m3u8
+hubsporm3u81,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486293.m3u8
+hubsporm3u82,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486325.m3u8
+hubsporm3u83,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486326.m3u8
+hubsporm3u84,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486327.m3u8
+hubsporm3u85,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/486328.m3u8
+hubpremier1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487013.m3u8
+hubpremier2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487014.m3u8
+hubpremier3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487015.m3u8
+hubpremier4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487016.m3u8
+hubpremier5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/487017.m3u8
+ELTA体育2台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488983.m3u8
+arenabola2（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489808.m3u8
+arenabola1（备）,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/489851.m3u8
+j sport 1,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562220.m3u8
+j sport 2,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562221.m3u8
+j sport 3,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562222.m3u8
+j sport 4,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/562223.m3u8
+游戏,#genre#
+王者,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483400.m3u8
+lol 云顶之弈,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483404.m3u8
+和平精英,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/483405.m3u8
+生死狙击,https://epg.pw/stream/5c45b383b8e45ac485ad372d9a96175a1c521f107b406888345e33ebbc1d6e6f.ctv
+梦幻西游手游,https://epg.pw/stream/3c9840b74cb3d04f0a95a9b6d5215064b20f543b38f123304bd9744f3be4ee13.ctv
+跑跑卡丁车,https://epg.pw/stream/8b8a04340e4dc64df4fd99e5dc6918147cc8c0788931827a60659da758acb337.ctv
+跑跑卡丁车手游,https://epg.pw/stream/3a6c6b47ef1f0051ba2bbb6091b8c2ec6b7c13341b463c8d0668e64eb90d2dcb.ctv
+HGTV居家樂活,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476328.m3u8
+亞洲旅遊,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476274.m3u8
+gtv八大精彩台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477035.m3u8
+民视旅遊,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476240.m3u8
+新闻,#genre#
+搜索亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476238.m3u8
+探索亞洲,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476978.m3u8
+搜索EVE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476251.m3u8
+HISTORY USA,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477648.m3u8
+NATIONAL GEOGRAPHIC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477085.m3u8
+BBC地球高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.m3u8
+美食星球,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476263.m3u8
+Travel Channel ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476636.m3u8
+Bbc Earth,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476670.m3u8
+TV5,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476723.m3u8
+Nat Geo,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476641.m3u8
+Nat Geo wild,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476642.m3u8
+NATGEOWILD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476597.m3u8
+Natgeo Wild,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476874.m3u8
+Discovery HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477746.m3u8
+Discovery,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476648.m3u8
+CCTV-13新闻,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476178.m3u8
+Fox news,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476620.m3u8
+Sun News,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476606.m3u8
+ABC NENS LIVE,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476618.m3u8
+東森亞洲衛視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476264.m3u8
+台視新聞台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476268.m3u8
+台視財經,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476271.m3u8
+中視新聞台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476269.m3u8
+華視新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476266.m3u8
+鏡新聞news,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476272.m3u8
+Star world,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476604.m3u8
+News Max,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476730.m3u8
+World fishing,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476649.m3u8
+Bbc Earth,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476670.m3u8
+BBC,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476671.m3u8
+Gma News,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476727.m3u8
+Inews,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476866.m3u8
+香港國際財經台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476956.m3u8
+東森新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476998.m3u8
+ESPN NEWS ,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477004.m3u8
+年代新聞高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477030.m3u8
+CinemaWorld,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477033.m3u8
+BBC地球高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477040.m3u8
+非凡新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477083.m3u8
+壹新聞,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477087.m3u8
+中天新闻 备,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479209.m3u8
+民視新聞02,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/479291.m3u8
+hoy资讯台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481867.m3u8
+cnn,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/488932.m3u8
+Baby TV(台湾),http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476250.m3u8
+東森幼幼,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476246.m3u8
+靖洋卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476248.m3u8
+靖天卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476249.m3u8
+CN卡通,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476247.m3u8
+Cooking,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476637.m3u8
+CCTV14少儿高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476900.m3u8
+Momo親子台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477060.m3u8
+卡通頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477066.m3u8
+COOKING CHANNEL,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477639.m3u8
+DISNEY JUNIOR,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477719.m3u8
+DISNEY CHANNEL HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477729.m3u8
+Discovery Kids Hd,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477745.m3u8
+Discovery Turbo HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477750.m3u8
+好消息,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476227.m3u8
+MTV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476659.m3u8
+Music Tv,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476876.m3u8
+CCTV15音乐高清,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476901.m3u8
+大愛電視,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/477082.m3u8
+music television,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481661.m3u8
+30a music,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/481671.m3u8
+VIP,#genre#
+潘朵啦玩美台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476363.m3u8
+松視2台,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476366.m3u8
+MYX,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476367.m3u8
+彩虹e,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476368.m3u8
+彩虹电影,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476369.m3u8
+Look,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476370.m3u8
+惊艳,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476371.m3u8
+香蕉,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476372.m3u8
+pornbox頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476374.m3u8
+BABES TV,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476375.m3u8
+Playboy,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476376.m3u8
+日本一本道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476405.m3u8
+Dorcel HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476377.m3u8
+Vivid Red HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476378.m3u8
+Pravite HD,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476379.m3u8
+HUSTLER,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476410.m3u8
+加勒比全球頻道,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476380.m3u8
+日本动漫,http://107.167.15.250:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/627300.m3u8

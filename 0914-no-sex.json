@@ -514,12 +514,12 @@
         "key": "hipy_js_荐片[优]",
         "name": "🧡｜荐片資源",
         "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 0,
-        "ext": "./drpy_js/荐片[优].js"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/荐片[优].js"
       },
       {
         "key": "界界影视",
@@ -5212,12 +5212,12 @@
         "key": "hipy_js_素白白",
         "name": "素白白｜(失效)",
         "type": 3,
-        "api": "./drpy_libs/drpy2.min.js",
+        "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
         "order_num": 0,
-        "ext": "./drpy_js/素白白.js"
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/素白白.js"
       },
       {
         "key": "飞飞",
