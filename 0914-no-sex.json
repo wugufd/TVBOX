@@ -472,8 +472,6 @@
               "分类": "電視劇$2#電影$1#動漫$4#動畫片$26#綜藝$3#紀錄片$21#直播$49"
               }
             },
-      
-      {"key":"csp_XBiuNBYY","name":"❤️｜泥視頻(CC)","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://www.nbyy.cc/filter.html?channel={cateId}&year={year}","分类": "電視劇$tv#電影$movie#動漫$anime#綜藝$show"}},
       {
         "key":"csp_XBiuNIVOD1",
         "name":"❤️｜泥視頻(粉絲復活)",
