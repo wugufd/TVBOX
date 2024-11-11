@@ -173,7 +173,6 @@ CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
 GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -186,69 +185,38 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大,http://61.221.215.25:8800/hls/56/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大,http://61.221.215.25:8800/hls/56/index.m3u8
 DW,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大戏剧HD,http://61.221.215.25:8800/hls/39/index.m3u8
 八大综合HD,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第1HD,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大,http://61.221.215.25:8800/hls/56/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 华语,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 NHK华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
