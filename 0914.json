@@ -11,10 +11,8 @@
 			{"name":"香蕉-MYTV｜訂閱","playerType":2,"url":"https://tv.iill.top/m3u/MyTV","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
 			{"name":"香蕉-LIVE｜訂閱","playerType":2,"url":"https://tv.iill.top/m3u/Live","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},		
 			{"name":"Litv線路｜優質","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/666-live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"牛奶線路｜優質","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/MilkTv-1108.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"Smart線路｜普通","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/smart.json","playerplayerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 			{"name":"Recha線路｜普通","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/king.txt","playerplayerType":2,"ua":"okhttp/3.15","timeout":5,"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},
-			{"name":"4G-TV線路｜不佳","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4G-tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},		
+			{"name":"4G-TV線路｜(選來源4)","playerType":2,"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/live/4G-tw.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei","logo":"https://epg.112114.xyz/logo/{name}.png"},		
             
 
 			{"name":"小武哥(18+)｜訂閱","playerType":2,"url":"https://qu.ax/PEHy.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"},
