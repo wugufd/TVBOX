@@ -1,7 +1,7 @@
 {
     "规则名": "益達影院",
     "规则作者": "逍遥",
-     "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+    "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "0",
