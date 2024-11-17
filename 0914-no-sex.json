@@ -555,27 +555,56 @@
       {"key":"csp_XBiuJUMITV","name":"🇹🇼｜劇迷｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://jumi.tv/show/{cateId}/by/time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuGimyCC","name":"🇹🇼｜劇迷｜CC(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://gimy.cc/filter/{cateId}---time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuGimyTW","name":"🇹🇼｜劇迷｜TW(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://gimytw.cc/{cateId}/?country=&year={year}&order_by=-aired&page={catePg}","分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety"}},
-      {"key":"csp_XBiu劇迷AI","name":"🇹🇼｜劇迷｜AI(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix\">&&</div>","简介":"details-content-all\">&&</span>","分类url":"https://www.gimy.ai/cat/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$30#綜藝$29#動畫片$24#紀錄片$22#短劇$34"}},
       {"key":"csp_XBiuPttPlay","name":"🇹🇼｜劇迷｜PTTPLAY(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix\">&&</div>","简介":"details-content-all\">&&</span>","分类url":"https://pttplay.co/show/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiu楓林網","name":"🇹🇼｜楓林網｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://8maple.pm/filter/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$tv#電影$movie#動漫$anime#綜藝$show"}},
       {"key":"csp_XBiuImaple8TV","name":"🇹🇼｜楓林網｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://imaple8.tv/vodtype/{cateId}-{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},    
       {"key":"csp_XBiu看看影視","name":"🇹🇼｜看看影視｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"anthology wow fadeInUp animated\">&&</span>","简介":"text cor3\">&&</div>","分类url":"https://www.kk-tv.com/index.php/vod/show/id/{cateId}/year/{year}.html","分类": "電視劇$1#電影$2#動漫$4#綜藝$3"}},
-      {"key":"csp_XBiuMomoVod","name":"🇹🇼｜MomoVod｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://momovod.app/type/{cateId}-{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
-      {"key":"csp_XBiuMiniJJ","name":"🇹🇼｜小雞暴走影院｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"nav nav-tabs\">&&</span>","简介":"lead vod-content\">&&</div>","分类url":"https://www.minijj.com/lm/{cateId}/sx---{year}-----{catePg}.html","分类": "電視劇$2#電影$1#動漫$3#綜藝$4"}},  
-      
       {
-        "key":"csp_XBiuMMOV線上看",
-        "name":"🇹🇼｜MMOV線上看｜(XB)",
-        "type": 3,"api":"csp_XBPQ",
+        "key":"csp_XBiuMomoVod",
+        "name":"🇹🇼｜MomoVod",
+        "type": 3,
+        "api":"csp_XBPQ",
         "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
         "ext":{
-                "分类url":"https://www.mmov.app/vodshow{cateId}-{area}------{catePg}---{year}.html",
-                "分类": "電影$1#電視劇$2#綜藝$3#動漫$4#福利$56",
-                "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#冒險片$20#懸疑片$21#犯罪片$22#災難片$23#音樂片$26#驚悚片$27#動畫片$28#奇幻片$29#紀錄片$30#微電影$31#其他片$32#倫理片$56||台劇$14#陸劇$13#韓劇$15#日劇$35#港劇$34#泰劇$36#越劇$37#歐美劇$16#海外劇$33"
+                "分类url":"https://momovod.app/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+                "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#紀錄片$20#微電影$21#動畫片$22#倫理片$27||国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$23#美剧$24#海外剧$25||内地综艺$36#港台综艺$34#日韩综艺$35#欧美综艺$37||国产动漫$31#日韩动漫$30#港台动漫$29#欧美动漫$32#海外动漫$33"
               }
+      },
+      {
+        "key":"csp_XBiuMiniJJ",
+        "name":"🇹🇼｜小雞暴走影院",
+        "type": 3,
+        "api":"csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+            "线路数组":"class=\"nav nav-tabs\">&&</span>",
+            "简介":"lead vod-content\">&&</div>",
+            "分类url":"https://www.minijj.com/lm/{cateId}/sx---{year}---{area}--{catePg}.html",
+            "分类": "電視劇$2#電影$1#經典動漫$3#綜藝娛樂$4#大陸劇$15#香港劇$16#台灣劇$918#日劇$18#韓劇$915#美劇$916#英劇$923#歐美劇$17#動作片$8#喜劇片$9#愛情片$10#科幻片$11#恐怖片$12#戰爭片$13#劇情片$14#國漫$906#日漫$904#美漫$905#其他動漫$903#大陸綜藝$911#港台綜藝$907#韓綜$908#日綜$912#泰綜$913#歐美綜藝$909",
+            "地区":"大陸$dalu#美國$meiguo#香港$xianggang#台灣$taiwan#韓國$hanguo#日本$riben#泰國$taiguo#新加坡$xinjiapo#馬來西亞$malaixiya#印度$yindu#英國$yingguo#法國$faguo#加拿大$jianada"
+              }
+      },  
+      {
+        "key":"csp_XBiuMMOV線上看",
+        "name":"🇹🇼｜MMOV線上看｜(XB)",
+        "type": 3,"api":"csp_XBPQ",
+        "ext":
+          {
+            "分类url":"https://www.mmov.app/vodshow{cateId}------------{year}.html",
+            "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+            "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#冒險片$20#懸疑片$21#犯罪片$22#災難片$23#音樂片$26#驚悚片$27#動畫片$28#奇幻片$29#紀錄片$30#微電影$31#其他片$32#倫理片$56||台劇$14#陸劇$13#韓劇$15#日劇$35#港劇$34#泰劇$36#越劇$37#歐美劇$16#海外劇$33"
+          },
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1
       },
       
       {"key":"csp_XBiu94i影城","name":"🇹🇼｜94i影城｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://94itv.app/vod-show-by-time-id-{cateId}-page-{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
@@ -5191,7 +5220,6 @@
         "type": 3,
         "api": "csp_XBPQ",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/gimy.json",
-        "spider": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;145277452362fe4b1371e8968b414ed1",
         "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
         "searchable": 1,
         "quickSearch": 1,
