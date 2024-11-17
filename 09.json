@@ -15,7 +15,7 @@
     {"key":"csp_XYQHiker_njav","name": "🔞Njav","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/njav.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_njav.com","name": "🔞Njav.com","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/njav.com.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_nowavtv","name": "🔞NOWAVTV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/nowavtv.json","style": {"type": "rect","ratio": 1.6}},
-    {"key": "csp_xBPQ_麻豆映画","name":"🔞麻豆映画","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,   "playerType":2,   "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar", "ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/18/yinghua.json"},
+
     {"key": "php_madou","name": "🔞麻豆-T4","type": 4,"api": "https://json.doube.eu.org/app/index.php?site=dbmadou","jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","spider": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","filterable": 0,"changeable": 0,"style": {"type": "rect", "ratio": 1.5}},
     {"key": "py_AiDou",  "name": "🔞愛豆-T4",  "type": 4,  "api": "https://py.doube.eu.org/spider?site=AiDou",  "searchable": 1,  "quickSearch": 0,  "filterable": 0,  "changeable": 0,  "style": {    "type": "rect",    "ratio": 1.5  }},
     {"key": "爱豆传媒","name": "🔞爱豆传媒","type": 3,"api": "csp_XBPQ","jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","spider": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","ext": {  "主页url": "https://rourou.co/",  "直接播放": "1",  "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",  "数组": "class=\"myui-vodlist__box\">&&</div>",  "图片": "data-original=\"&&\"",  "标题": "title=\"&&\"",  "链接": "href=\"&&\"",  "分类url": "https://rourou.co/index.php/vod/type/id/{cateId}/page/{carePg}.html",  "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"}},
@@ -27,7 +27,6 @@
     {"key":"csp_XYQHiker_91porn_asia","name": "🔞91porn_asia","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91porn_asia.json","style": {"type": "rect","ratio": 1.75}},
     {"key":"csp_XYQHiker_91porn永久官方","name": "🔞91porn永久官方","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91porn永久.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_91吃瓜","name": "🔞91吃瓜","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91吃瓜.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_91在线视频","name": "🔞91在线视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91在线视频.json","style": {"type": "rect","ratio": 1.6}},
     {"key": "csp_91黑料","name": "🔞91黑料","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": {  "主页url": "https://kb17.oneoneno8cd345.xyz/one",  "首页": "400",  "请求头": "User-Agent$PC_UA",  "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",  "二次截取": "<div class=\"videoListBox\"&&el-paginationis-background",  "标题": "title\">&&</p>",  "副标题": "time\">&&</div>",  "链接": "https://kb17.oneoneno8cd345.xyz/v/+href=\"/voddetail/&&/\"+/sid/1/nid/1/",  "图片": "data-src=\"&&\"",  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",  "搜索url": "https://kb17.oneoneno8cd345.xyz/s/wd/{wd}/",  "分类url": "https://kb17.oneoneno8cd345.xyz/t/{cateId}-{catePg}/;;z",  "分类数组": "<a&&</a>",  "分类标题": ">&&</a>",  "分类ID": "/t/&&/"},"jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/hl.jar"},
     {"key":"*91麻豆x","name":"🔞91麻豆┃備1","type":1,"api":"https://91md.me/api.php/provide/vod/","jar":"https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1},
     {"key":"*91麻豆2🔞","name":"🔞91麻豆┃備2","type":1,"api":"http://www.9191md.me/api.php/provide/vod/","jar":"https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/pg.jar","searchable":1,"quickSearch":1},
@@ -57,12 +56,72 @@
     {"key": "csp_XBPQ_春水堂","name": "🔞春水堂","type": 3,"api": "csp_XBPQ","jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar","filterable": 1,"ext": {  "分类url": "https://cst1.buzz/frim/index{cateId}-{catePg}.html",  "直接播放" : "0",  "图片"   : "data-original=\"&&\""  ,  "播放数组" : "class=\"panel clearfix&&</div>"  ,  "分类"   : ""}},
     {"key": "色花堂","name": "🔞色花堂","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/色花堂.json","jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"},
     {"key":"蜜桃社(采集)🔞","name":"🔞蜜桃社","type":1,"api":"https://mitaoshe.cyou/api.php/provide/vod/","searchable":1,"quickSearch":1, "categories": [],"style": {"type": "rect","ratio": 1.6}},
-    {"key": "csp_XBPQ_中文｜0","name": "🔞香蕉中文","type": 3,"api": "csp_xBPQ","filterable": 1,"ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/新香蕉中文字幕.json","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile1.jar"},
-    {"key": "csp_xBPQ_热","name": "🔞香蕉久久热","type": 3,"api": "csp_xBPQ","filterable": 0,"ext": "https://https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/香蕉久久热.json","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile2.jar"},
-    {"key": "csp_xBPQ_清","name": "🔞香蕉超清","type": 3,"api": "csp_xBPQ","filterable": 0,"ext": "https://https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/香蕉超清.json","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile2.jar"},
-    {"key": "csp_xBPQ_超清","name": "🔞香蕉超清資源","type": 3,"jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile1.jar","api": "csp_xBPQ","filterable": 0,"ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/新香蕉超清资源.json"},
-    {"key": "csp_xBPQ_搜索","name": "🔞香蕉搜索","type": 3,"api": "csp_xBPQ","filterable": 0,"ext": "https://https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/香蕉搜索.json","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile2.jar"},
-    {"key": "csp_xBPQ_产","name": "🔞香蕉国产","type": 3,"api": "csp_xBPQ","filterable": 0,"ext": "https://https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/香蕉国产.json","jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/Yoursmile2.jar"},
+    {
+        "key": "csp_xBPQ_超清",
+        "name": "🔞香蕉超清資源",
+        "type": 3,
+        "jar": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/jar/Yoursmile1.jar",
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/新香蕉超清资源.json"
+      },
+      {
+        "key": "csp_xBPQ_清",
+        "name": "🔞香蕉超清",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉超清.json",
+        "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
+      },
+      {
+        "key": "csp_xBPQ_热",
+        "name": "🔞香蕉久久热",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉久久热.json",
+        "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
+      },
+      {
+        "key": "csp_xBPQ_产",
+        "name": "🔞香蕉国产",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉国产.json",
+        "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
+      },
+      {
+        "key": "csp_xBPQ_搜索",
+        "name": "🔞香蕉搜索",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉搜索.json",
+        "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
+      },
+      {
+        "key": "csp_xBPQ源",
+        "name": "🔞香蕉资源",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉资源.json",
+        "jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"
+      },
     {"key": "csp_XBPQ_桃子","name": "🔞桃子","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": {  "分类url": "https://le.taozi4.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",  "直接播放": "0",  "图片": "data-original=\"&&\"",  "播放数组": "class=\"play-btn&&</div>",  "分类": "偷拍自拍$20#国产大制作$21#乱伦毁三观$22#嫖妓全过程$23#淫乱妹$24#黑料不打烊$25#监控摄像头$26#主播网红$27"},"jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"},
     {"key": "csp_XBPQ_蜜","name": "🔞木瓜","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": {  "分类url": "https://www.okav15.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html",  "直接播放": "1",  "图片": "data-original=\"&&\"",  "分类": "國產$1#日韓$2#歐美$3#動漫$4#中字$5"},"jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar"},
     {"key": "hipy_js_地瓜视频[密]","name": "🔞地瓜","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js","filterable": 1,"order_num": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/地瓜视频[密].js"},
@@ -269,8 +328,9 @@
     {"key":"csp_XYQHiker_酷爱成人网>","name": "🔞酷爱成人网✈️","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/酷爱成人网.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_鲨鱼av","name": "🔞鲨鱼av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/鲨鱼av.json","style": {"type": "rect","ratio": 1.6}},
     {"key":"csp_XYQHiker_91HD","name": "🔞91HD｜失效","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91hd.json","style": {"type": "rect","ratio": 1.6}},
-    {"key":"csp_XYQHiker_番号鸽","name": "🔞番号鸽｜失效","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/番号鸽.json","style": {"type": "rect","ratio": 1.6}}
-
+    {"key":"csp_XYQHiker_番号鸽","name": "🔞番号鸽｜失效","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/番号鸽.json","style": {"type": "rect","ratio": 1.6}},
+    {"key": "csp_xBPQ_麻豆映画","name":"🔞麻豆映画","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,   "playerType":2,   "jar": "https://gh-proxy.com/raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar", "ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/18/yinghua.json"},
+    {"key":"csp_XYQHiker_91在线视频","name": "🔞91在线视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/91在线视频.json","style": {"type": "rect","ratio": 1.6}}
 
     
 
