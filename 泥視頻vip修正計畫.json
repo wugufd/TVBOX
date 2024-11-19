@@ -472,10 +472,8 @@
               "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
               "搜索url": "https://www.nivod.vip/s/{wd}-------------",
               "影片类型": "module-info-tag\">&&立即播放",
-              //"线路数组": "<div class=module-tab-item\"&&</span>",
-              "线路数组": "div class=\"swiper-wrapper&&</span>",
-              "线路标题": "<span>&&</span>",
               "播放数组": "div class=\"module-play-list-content&&</div>",
+              "线路标题": "<span>&&</span>",
               "简介": "module-info-introduction-content\"&&</p>",
               "简介详情": "简介：&&</p>",
               "分类url":"https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
@@ -485,29 +483,6 @@
               "排序": "时间$time#人气$hits#评分$score",
               "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏&互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他"
             }
-      },
-      {
-        "key": "花姐影院",
-        "name": "🎥｜花姐",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "数组": "fed-lazy&&</a>",
-          "副标题": "fed-text-center\">&&</span",
-          "简介": "fed-matp-v\">&&</div",
-          "线路数组": "href=\"\\#playlist&&</li>",
-          "线路标题": "</i>&&</a>",
-          "播放数组": "<ul class=\"myui-content__list&&</ul",
-          "跳转播放链接": "var now=\"&&\"",
-          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-          "分类": "电视剧&电影&综艺&动漫",
-          "分类值": "2&1&3&4"
-        }
       },
       {
         "key":"csp_XBiuNIVOD1",
@@ -705,7 +680,29 @@
         "quickSearch": 1,
         "filterable": 1
       },
-
+      {
+        "key": "花姐影院",
+        "name": "🎥｜花姐",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "数组": "fed-lazy&&</a>",
+          "副标题": "fed-text-center\">&&</span",
+          "简介": "fed-matp-v\">&&</div",
+          "线路数组": "href=\"\\#playlist&&</li>",
+          "线路标题": "</i>&&</a>",
+          "播放数组": "<ul class=\"myui-content__list&&</ul",
+          "跳转播放链接": "var now=\"&&\"",
+          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+          "分类": "电视剧&电影&综艺&动漫",
+          "分类值": "2&1&3&4"
+        }
+      },
       {
         "key": "hipy_js_APPV2[模板]1",
         "name": "🎥｜大米星球｜",

@@ -243,7 +243,7 @@
         "User-Agent": "Mozilla/5.0(Linux;Android11;M2101K9CBuild/RKQ1.201112.002;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/76.0.3809.89MobileSafari/537.36T7/12.16SearchCraft/3.9.1(Baidu;P111)"
       },
       {"key":"csp_XBiu小宝影院XBYY","name":"优质｜小寶｜備用2","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xbyy.app/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
-      {"key":"csp_小宝影院","name":"优质｜小寶｜備用3","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
+      {"key":"csp_小宝影院","name":"优质｜小寶｜備用3","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇&電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
       {"key":"csp_Xiaoh","name":"优质｜小寶｜備用4","type":3,"api":"csp_Xiaoh","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1,"filterable":1},
       {
         "key": "zj",
@@ -467,12 +467,47 @@
         "quickSearch":1,
         "filterable":1,
         "ext":{
-              "简介":"简介：&&</div>",
+              "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
+              "编码": "UTF-8",
+              "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
+              "搜索url": "https://www.nivod.vip/s/{wd}-------------",
+              "影片类型": "module-info-tag\">&&立即播放",
+              "播放数组": "div class=\"module-play-list-content&&</div>",
+              "线路标题": "<span>&&</span>",
+              //"线路数组": "<div class=module-tab-item\"&&</span>",
+              "简介": "module-info-introduction-content\"&&</p>",
+              "简介详情": "简介：&&</p>",
               "分类url":"https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
-              "分类": "電影$1#電視劇$2#綜藝$3#動漫$4#直播$49",
-              "剧情": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日本剧$15#韩国剧$33#欧美剧$16#泰国剧$34#新馬剧$35#其他剧$25||國產综艺$27#港台综艺$28#日本综艺$29#韩國综艺$36#欧美综艺$30#新馬泰綜藝$37#其他综艺$38||国产动漫$31#日本动漫$32#韓國动漫$39#港台动漫$40#新馬泰$41動漫#欧美动漫$42#其他动漫$43||空"
-              }
-            },
+              "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+              "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日本剧$15#韩国剧$33#欧美剧$16#泰国剧$34#新馬剧$35#其他剧$25||國產综艺$27#港台综艺$28#日本综艺$29#韩國综艺$36#欧美综艺$30#新馬泰綜藝$37#其他综艺$38||国产动漫$31#日本动漫$32#韓國动漫$39#港台动漫$40#新馬泰$41動漫#欧美动漫$42#其他动漫$43",
+              "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&加拿大&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他",
+              "排序": "时间$time#人气$hits#评分$score",
+              "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春&偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏&互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他"
+            }
+      },
+      {
+        "key": "花姐影院",
+        "name": "🎥｜花姐",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "数组": "fed-lazy&&</a>",
+          "副标题": "fed-text-center\">&&</span",
+          "简介": "fed-matp-v\">&&</div",
+          "线路数组": "href=\"\\#playlist&&</li>",
+          "线路标题": "</i>&&</a>",
+          "播放数组": "<ul class=\"myui-content__list&&</ul",
+          "跳转播放链接": "var now=\"&&\"",
+          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+          "分类": "电视剧&电影&综艺&动漫",
+          "分类值": "2&1&3&4"
+        }
+      },
       {
         "key":"csp_XBiuNIVOD1",
         "name":"❤️｜泥視頻(粉絲復活)",
@@ -486,16 +521,14 @@
             "简介": "简介：&&</div>",
             "分类url":"https://nivodi.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{latter}/page/{catePg}/year/{year}.html",
             "分类": "電影$1#電視劇$2#動漫$48#綜藝$3#紀錄片$21#午夜場$54",
-            "剧情": "动作$6#喜剧$7#爱情$8#科幻$9#剧情$10#恐怖$11#冒险$39#奇幻$12#战争$22#犯罪$42#悬疑$23#动画$28#伦理$40#其他$41#邵氏电影$24||国产剧$13#香港剧$14#台湾剧$15#韩国剧$16#日本剧$25#欧美剧$26#泰国剧$43#其他剧$27||国产动漫$49#日本动漫$50#港台动漫$51#欧美动漫$52#其他动漫$53||國產综艺$34#港台综艺$35#日韩综艺$36#欧美综艺$37#其他综艺$38||国产精品$55#黑料吃瓜$66#萝莉少女$72#网红明星$59#日本有码$57#日本无码$56#童颜巨乳$60#性感人妻$61#强奸乱伦$62#日本片商$64#自拍偷拍$65#欧美情色$67#麻豆传媒$68#丝袜OL$70",
+            "剧情": "动作&喜剧$7#爱情$8#科幻$9#剧情$10#恐怖$11#冒险$39#奇幻$12#战争$22#犯罪$42#悬疑$23#动画$28#伦理$40#其他$41#邵氏电影$24||国产剧$13#香港剧$14#台湾剧$15#韩国剧$16#日本剧$25#欧美剧$26#泰国剧$43#其他剧$27||国产动漫$49#日本动漫$50#港台动漫$51#欧美动漫$52#其他动漫$53||國產综艺$34#港台综艺$35#日韩综艺$36#欧美综艺$37#其他综艺$38||国产精品$55#黑料吃瓜$66#萝莉少女$72#网红明星$59#日本有码$57#日本无码$56#童颜巨乳$60#性感人妻$61#强奸乱伦$62#日本片商$64#自拍偷拍$65#欧美情色$67#麻豆传媒$68#丝袜OL$70",
             "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
-            "影片年代": "<div class=\"module-info-tag\">&&</div>",
+            "影片年代": "div class=\"module-info-tag\">&&</div",
             "影片类型": "module-info-tag\">&&立即播放",
-            "线路数组": "data-dropdown-value=&&</div>",
-            "播放数组": "<div class=\"hl-list-wrap\"&&</div>",
+            "线路数组": "data-dropdown-value=&&</div",
+            "播放数组": "div class=\"hl-list-wrap\"&&</div",
             "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&加拿大&其他||空||空||空||空",
-            "地区值": "*",
             "年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010-2000&2000-1970",
-            "年份值": "*",
             "排序": "时间&人气&评分",
             "排序值": "time&hits&score"
         }
@@ -546,7 +579,7 @@
           "线路数组": "<img src=\"/statics/icon/icon_26.png\"&&</h3>",
           "线路标题": "蓝光专线",
           "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
-          "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
+          "分类": "动作片$5#爱情片&科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
         }
       },
       {
@@ -561,7 +594,7 @@
         "ext":{
                 "分类url":"https://momovod.app/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
                 "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-                "类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#紀錄片$20#微電影$21#動畫片$22#倫理片$27||国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$23#美剧$24#海外剧$25||内地综艺$36#港台综艺$34#日韩综艺$35#欧美综艺$37||国产动漫$31#日韩动漫$30#港台动漫$29#欧美动漫$32#海外动漫$33"
+                "类型":"动作片&喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#紀錄片$20#微電影$21#動畫片$22#倫理片$27||国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$23#美剧$24#海外剧$25||内地综艺$36#港台综艺$34#日韩综艺$35#欧美综艺$37||国产动漫$31#日韩动漫$30#港台动漫$29#欧美动漫$32#海外动漫$33"
               }
       },
       {
@@ -602,7 +635,7 @@
           {
             "分类url":"https://www.mmov.app/vodshow{cateId}------------{year}.html",
             "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-            "类型": "動作片$6#喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#冒險片$20#懸疑片$21#犯罪片$22#災難片$23#音樂片$26#驚悚片$27#動畫片$28#奇幻片$29#紀錄片$30#微電影$31#其他片$32#倫理片$56||台劇$14#陸劇$13#韓劇$15#日劇$35#港劇$34#泰劇$36#越劇$37#歐美劇$16#海外劇$33"
+            "类型": "動作片&喜劇片$7#愛情片$8#科幻片$9#恐怖片$10#劇情片$11#戰爭片$12#冒險片$20#懸疑片$21#犯罪片$22#災難片$23#音樂片$26#驚悚片$27#動畫片$28#奇幻片$29#紀錄片$30#微電影$31#其他片$32#倫理片$56||台劇$14#陸劇$13#韓劇$15#日劇$35#港劇$34#泰劇$36#越劇$37#歐美劇$16#海外劇$33"
           },
         "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
         "searchable":1,
@@ -671,29 +704,7 @@
         "quickSearch": 1,
         "filterable": 1
       },
-       {
-        "key": "花姐影院",
-        "name": "🎥｜花姐",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "数组": "fed-lazy&&</a>",
-          "副标题": "fed-text-center\">&&</span",
-          "简介": "fed-matp-v\">&&</div",
-          "线路数组": "href=\"\\#playlist&&</li>",
-          "线路标题": "</i>&&</a>",
-          "播放数组": "<ul class=\"myui-content__list&&</ul",
-          "跳转播放链接": "var now=\"&&\"",
-          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-          "分类": "电视剧&电影&综艺&动漫",
-          "分类值": "2&1&3&4"
-        }
-      },
+
       {
         "key": "hipy_js_APPV2[模板]1",
         "name": "🎥｜大米星球｜",
@@ -2338,7 +2349,7 @@
         "ext": {
           "线路数组": "sb-ico-playerico-Azhan\">&&</li>",
           "分类url": "https://www.cpldq.com/cptype/{cateId}-{catePg}.html",
-          "分类": "短剧$30#电视剧$2#国产剧$13#香港剧$14#台湾剧$32#韩剧$16#日剧$33#欧美剧$15#电影$1#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#动漫$4#综艺$3"
+          "分类": "短剧$30#电视剧$2#国产剧$13#香港剧$14#台湾剧$32#韩剧$16#日剧$33#欧美剧$15#电影$1#动作片$5#爱情片&科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#动漫$4#综艺$3"
         }
       },
       {
@@ -2777,7 +2788,7 @@
           "编码": "UTF-8",
           "分类url": "https://www.59v.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
           "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-          "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
+          "类型": "动作片&喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
           "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他",
           "剧情值": "*",
           "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他",
@@ -3658,7 +3669,7 @@
           "搜索链接": "href=\"&&\"",
           "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
           "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-          "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+          "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片&科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
         }
       },
       {
@@ -4141,7 +4152,7 @@
         "api": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_libs/drpy2.min.js",
         "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/drpy_js/Anime1动画.js"
       },
-      {"key":"csp_XBiuAG動漫","name":"动漫｜AG動漫(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://agdm.tv/show/{cateId}/by/time/page/{catePg}/year/{year}.html","分类": "全區$1#劇場版$9#日本動漫$6#國產動漫$7#歐美動漫$8#海外動漫$21"}},    
+      {"key":"csp_XBiuAG動漫","name":"动漫｜AG動漫(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://agdm.tv/show/{cateId}/by/time/page/{catePg}/year/{year}.html","分类": "全區$1#劇場版$9#日本動漫&國產動漫$7#歐美動漫$8#海外動漫$21"}},    
       {
         "key": "drpy_js_NyaFun",
         "name": "动漫｜NyaFun",
