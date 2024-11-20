@@ -496,14 +496,6 @@
             "简介": "简介：&&</div>",
             "分类url":"https://nivodi.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
             "分类": "電影$1#電視劇$2#動漫$48#綜藝$3#紀錄片$21"
-            //"剧情": "动作&喜剧$7#爱情$8#科幻$9#剧情$10#恐怖$11#冒险$39#奇幻$12#战争$22#犯罪$42#悬疑$23#动画$28#伦理$40#其他$41#邵氏电影$24||国产剧$13#香港剧$14#台湾剧$15#韩国剧$16#日本剧$25#欧美剧$26#泰国剧$43#其他剧$27||国产动漫$49#日本动漫$50#港台动漫$51#欧美动漫$52#其他动漫$53||國產综艺$34#港台综艺$35#日韩综艺$36#欧美综艺$37#其他综艺$38",
-            //"嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
-            //"影片类型": "module-info-tag\">&&立即播放",
-            //"线路数组": "data-dropdown-value=&&</div",
-            //"播放数组": "div class=\"hl-list-wrap\"&&</div",
-            //"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&加拿大&其他||空||空||空",
-            //"年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010-2000&2000-1970",
-            //"排序": "时间$time#人气$hits#评分$score"
               }
       },
       {"key":"csp_XBiu歐樂影院ORG","name":"❤️｜歐樂影視","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"content_desc context clearfix\">&&</span>","分类url":"https://www.oulevod.org/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#體育$59#短劇$53"}},
@@ -622,6 +614,17 @@
       {"key":"csp_XBiuJUMITV","name":"🇹🇼｜劇迷｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://jumi.tv/show/{cateId}/by/time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuGimyCC","name":"🇹🇼｜劇迷｜CC(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://gimy.cc/filter/{cateId}---time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuGimyTW","name":"🇹🇼｜劇迷｜TW(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://gimytw.cc/{cateId}/?country=&year={year}&order_by=-aired&page={catePg}","分类": "電視劇$drama#電影$movie#動漫$anime#綜藝$variety"}},
+      {
+        "key": "劇迷",
+        "name": "🇹🇼｜劇迷｜AI(XB)",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/gimy.json",
+        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+      },
       {"key":"csp_XBiuPttPlay","name":"🇹🇼｜劇迷｜PTTPLAY(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix\">&&</div>","简介":"details-content-all\">&&</span>","分类url":"https://pttplay.co/show/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiu楓林網","name":"🇹🇼｜楓林網｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://8maple.pm/filter/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$tv#電影$movie#動漫$anime#綜藝$show"}},
       {"key":"csp_XBiuImaple8TV","name":"🇹🇼｜楓林網｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://imaple8.tv/vodtype/{cateId}-{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},    
@@ -5226,17 +5229,6 @@
       {"key":"阿里影视","name":"阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1},
       {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1},
       {"key":"39影视(json)","name":"39影视(json)(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/at/json/","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/panda1123.jar;md5;d9004aa2e16f60b04baed361713fb710","searchable":1,"quickSearch":1},
-      {
-        "key": "劇迷",
-        "name": "🎥｜劇迷(純搜索用)",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "ext": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/gimy.json",
-        "jar": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-      },
       {
         "key": "奥特影视",
         "name": "🎥｜奥特｜(失效)",
