@@ -484,29 +484,6 @@
             }
       },
       {
-        "key": "花姐影院",
-        "name": "🎥｜花姐",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "数组": "fed-lazy&&</a>",
-          "副标题": "fed-text-center\">&&</span",
-          "简介": "fed-matp-v\">&&</div",
-          "线路数组": "href=\"\\#playlist&&</li>",
-          "线路标题": "</i>&&</a>",
-          "播放数组": "<ul class=\"myui-content__list&&</ul",
-          "跳转播放链接": "var now=\"&&\"",
-          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-          "分类": "电视剧&电影&综艺&动漫",
-          "分类值": "2&1&3&4"
-        }
-      },
-      {
         "key":"csp_XBiuNIVOD1",
         "name":"❤️｜泥視頻(粉絲復活)",
         "type":3,
@@ -517,7 +494,7 @@
         "filterable":1,
         "ext":{
             "简介": "简介：&&</div>",
-            "分类url":"https://nivodi.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{latter}/page/{catePg}/year/{year}.html",
+            "分类url":"https://nivodi.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
             "分类": "電影$1#電視劇$2#動漫$48#綜藝$3#紀錄片$21#午夜場$54",
             "剧情": "动作&喜剧$7#爱情$8#科幻$9#剧情$10#恐怖$11#冒险$39#奇幻$12#战争$22#犯罪$42#悬疑$23#动画$28#伦理$40#其他$41#邵氏电影$24||国产剧$13#香港剧$14#台湾剧$15#韩国剧$16#日本剧$25#欧美剧$26#泰国剧$43#其他剧$27||国产动漫$49#日本动漫$50#港台动漫$51#欧美动漫$52#其他动漫$53||國產综艺$34#港台综艺$35#日韩综艺$36#欧美综艺$37#其他综艺$38||国产精品$55#黑料吃瓜$66#萝莉少女$72#网红明星$59#日本有码$57#日本无码$56#童颜巨乳$60#性感人妻$61#强奸乱伦$62#日本片商$64#自拍偷拍$65#欧美情色$67#麻豆传媒$68#丝袜OL$70",
             "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
@@ -527,9 +504,8 @@
             "播放数组": "div class=\"hl-list-wrap\"&&</div",
             "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||大陆&韩国&香港&台湾&日本&美国&泰国&英国&加拿大&其他||空||空||空||空",
             "年份": "2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010-2000&2000-1970",
-            "排序": "时间&人气&评分",
-            "排序值": "time&hits&score"
-        }
+            "排序": "时间$time#人气$hits#评分$score"
+              }
       },
       {"key":"csp_XBiu歐樂影院ORG","name":"❤️｜歐樂影視","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"content_desc context clearfix\">&&</span>","分类url":"https://www.oulevod.org/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#體育$59#短劇$53"}},
       {"key":"csp_XBiuYLSP","name":"❤️｜永樂影視","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"video-info-item video-info-content vod_content\">&&</span>","分类url":"https://ylsp.tv/vodshow/{cateId}--time------{cateIPg}---{year}/","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#動畫片$26"}},
@@ -702,7 +678,29 @@
         "quickSearch": 1,
         "filterable": 1
       },
-
+      {
+        "key": "花姐影院",
+        "name": "🎥｜花姐",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "数组": "fed-lazy&&</a>",
+          "副标题": "fed-text-center\">&&</span",
+          "简介": "fed-matp-v\">&&</div",
+          "线路数组": "href=\"\\#playlist&&</li>",
+          "线路标题": "</i>&&</a>",
+          "播放数组": "<ul class=\"myui-content__list&&</ul",
+          "跳转播放链接": "var now=\"&&\"",
+          "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+          "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+          "分类": "电视剧&电影&综艺&动漫",
+          "分类值": "2&1&3&4"
+        }
+      },
       {
         "key": "hipy_js_APPV2[模板]1",
         "name": "🎥｜大米星球｜",
