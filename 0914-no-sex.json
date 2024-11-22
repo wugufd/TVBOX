@@ -1179,9 +1179,52 @@
         "quickSearch":1,
         "filterable":1
       },
-      {"key":"csp_XBiu播王","name":"🇹🇼｜播王｜(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://bowang.su/show/{cateId}/by/time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$3#綜藝$4"}},
-      {"key":"csp_XBiu小鴨影音TV","name":"🇹🇼｜小鴨影音｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://777tv.ai/vod/show/by/time/id/{cateId}/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$30#綜藝$29"}},
-      {"key":"csp_XBiu小鴨影音CC","name":"🇹🇼｜小鴨影音｜CC(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://777drama.cc/list/{cateId}/{catePg}","分类": "電視劇$tv#電影$movie#動漫$anime"}},
+      {
+        "key":"csp_XBiu播王",
+        "name":"🇹🇼｜播王｜(XB)",
+        "type": 3,
+        "api":"csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":
+        {
+          "分类url":"https://bowang.su/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+          "分类": "電影$1#電視劇$2#動漫$3#綜藝$4",
+          "地区":"大陸&香港&台灣&美國&法國&英國&日本&韓國&德國&泰國&印度&意大利&西班牙&加拿大&其他"
+
+        }
+      },
+      {
+        "key":"csp_XBiu小鴨影音TV",
+        "name":"🇹🇼｜小鴨影音｜TV",
+        "type": 3,
+        "api":"csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+            "分类url":"https://777tv.ai/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+            "分类": "電視劇$2#電影$1#動漫$30#綜藝$29",
+            "地区":"美國&歐美&韓國&中國大陸&大陸&內地&日本&臺灣&香港&泰國&英國&新加坡&其他"
+              }
+      },
+      {
+        "key":"csp_XBiu小鴨影音CC",
+        "name":"🇹🇼｜小鴨影音｜CC",
+        "type": 3,
+        "api":"csp_XBPQ",
+        "jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+            "分类url":"https://777drama.cc/list/{cateId}/{catePg}",
+            "分类": "電視劇$tv#電影$movie#動漫$anime"
+              }
+      },
       {"key":"csp_XBiu劇迷IM","name":"🇹🇼｜劇迷｜IM(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"class=\"playlist-mobile playlist layout-box clearfix\">&&</div>","简介":"details-content-all\">&&</span>","分类url":"https://gimy.im/show/{cateId}/by/time/page/{catePg}/year/{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuJUMITV","name":"🇹🇼｜劇迷｜TV(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://jumi.tv/show/{cateId}/by/time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
       {"key":"csp_XBiuGimyCC","name":"🇹🇼｜劇迷｜CC(XB)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://gimy.cc/filter/{cateId}---time/page/{catePg}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3"}},
