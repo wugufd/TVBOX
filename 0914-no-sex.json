@@ -1263,9 +1263,7 @@
               "年份": "2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010",
               "影片类型": "module-info-tag\">&&立即播放",
               "简介":"簡介：</span>&&</p>",
-              "播放数组": "class=myui-content__list\"&&</div>",
-              "线路数组": "href=\"\\#playlist&&</a>",
-              "线路标题": "data-toggle=tab\"&&</a>"
+              "播放数组": "<ul class=\"myui-content__list&&</ul"
             }
       },
       {
@@ -1350,8 +1348,6 @@
           "数组": "fed-lazy&&</a>",
           "副标题": "fed-text-center\">&&</span",
           "简介": "fed-matp-v\">&&</div",
-          "线路数组": "href=\"\\#playlist&&</li>",
-          "线路标题": "</i>&&</a>",
           "播放数组": "<ul class=\"myui-content__list&&</ul",
           "跳转播放链接": "var now=\"&&\"",
           "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
